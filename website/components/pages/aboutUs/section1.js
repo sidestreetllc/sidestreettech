@@ -39,7 +39,7 @@ export default function Section1() {
 									<span className="sub-odo">+</span>
 								</div>
 								<p className="sub-counter text-white font-main-2 fw-5 fs-20 mb-70 mt-5">
-									Years Of Experience In Managed IT
+									Years Serving Upstate Businesses
 								</p>
 								<div className="image mb-30 tf-hover">
 									<div className="hover-1">
@@ -52,9 +52,7 @@ export default function Section1() {
 									</div>
 								</div>
 								<p className="text text-white mb-40">
-									Business managed IT services are designed help organizations navigate challenges,
-									streamline operations a achieve long-term success we work closely with clients to
-									identify areas.
+									Sidestreet Technology is the managed IT arm of Sidestreet — a Spartanburg company that has served businesses since 2010. Same operating company, same senior-led, no-handoffs approach, now pointed at your full technology stack.
 								</p>
 								<ul className="list mb-40">
 									<li>
@@ -62,7 +60,7 @@ export default function Section1() {
 											<i className="icon-check-2" />
 										</div>
 										<p>
-											Customized Solutions
+											Senior-Led, No Handoffs
 										</p>
 									</li>
 									<li>
@@ -70,7 +68,7 @@ export default function Section1() {
 											<i className="icon-check-2" />
 										</div>
 										<p>
-											Expertise &amp; Experience
+											15+ Years in Spartanburg
 										</p>
 									</li>
 								</ul>

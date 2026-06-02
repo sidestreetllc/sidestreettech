@@ -141,8 +141,8 @@ export default function Section8() {
 													helped us streamline,"
 												</p>
 												<div className="bot">
-													<Link href="/#" className="name fw-7"> Janet Brooks </Link>
-													<p className="duty">Operations Director, Spartanburg Manufacturer</p>
+													<Link href="/#" className="name fw-7"> Upstate SC client </Link>
+													<p className="duty">Operations Director, Spartanburg manufacturer</p>
 												</div>
 											</div>
 										</SwiperSlide>
@@ -158,8 +158,8 @@ export default function Section8() {
 													helped us streamline,"
 												</p>
 												<div className="bot">
-													<Link href="/#" className="name fw-7"> Janet Brooks </Link>
-													<p className="duty">Operations Director, Spartanburg Manufacturer</p>
+													<Link href="/#" className="name fw-7"> Upstate SC client </Link>
+													<p className="duty">Operations Director, Spartanburg manufacturer</p>
 												</div>
 											</div>
 										</SwiperSlide>

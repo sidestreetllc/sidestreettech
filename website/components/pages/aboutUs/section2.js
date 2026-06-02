@@ -62,7 +62,7 @@ export default function Section2() {
 												<i className="flaticon-market" />
 											</div>
 											<Link href="/#">
-												Company Vision &amp; Goals
+												Company Vision
 											</Link>
 										</div>
 										<p className="text">
@@ -101,8 +101,9 @@ export default function Section2() {
 										</span>
 									</p>
 									<p className="text text-white">
-										Our commitment to integrity, collaboration, and impact-driven
-										aim to inspire and shape the future of business growth
+										Our roots are in broadcast and live production — work where there are no
+										second takes. That same precision and deadline discipline is how we run
+										your technology.
 									</p>
 								</div>
 								<div className="content-right">
@@ -122,7 +123,7 @@ export default function Section2() {
 									<div className="wg-skill mb-40 ">
 										<div className="name">
 											<p>
-												Marketing Technology
+												Cloud & Microsoft 365
 											</p>
 											<p className="percent">
 												73%
@@ -135,7 +136,7 @@ export default function Section2() {
 									<div className="wg-skill ">
 										<div className="name">
 											<p>
-												Financial Technology
+												Cybersecurity & Backup
 											</p>
 											<p className="percent">
 												80%

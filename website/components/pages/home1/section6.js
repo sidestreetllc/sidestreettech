@@ -98,8 +98,8 @@ export default function Section6() {
 									</div>
 								</Link>
 								<div className="content">
-									<Link href="/team-details" className="name"> Marcus Whitfield </Link>
-									<p className="duty">Systems Engineer</p>
+									<Link href="/team-details" className="name"> Joshua Kuhn </Link>
+									<p className="duty">Founder & Principal</p>
 									<ul className="social-list style-5 style-4">
 										<li>
 											<Link href="/team-details">
@@ -138,8 +138,8 @@ export default function Section6() {
 									</div>
 								</Link>
 								<div className="content">
-									<Link href="/team-details" className="name"> Priya Nair </Link>
-									<p className="duty">Systems Engineer</p>
+									<Link href="/team-details" className="name"> Senior Engineer </Link>
+									<p className="duty">Managed IT & Support</p>
 									<ul className="social-list style-5 style-4">
 										<li>
 											<Link href="/team-details">
@@ -178,8 +178,8 @@ export default function Section6() {
 									</div>
 								</Link>
 								<div className="content">
-									<Link href="/team-details" className="name"> Derek Coleman </Link>
-									<p className="duty">Systems Engineer</p>
+									<Link href="/team-details" className="name"> Cloud & Security Lead </Link>
+									<p className="duty">Cloud, M365 & Cybersecurity</p>
 									<ul className="social-list style-5 style-4">
 										<li>
 											<Link href="/team-details">
@@ -218,8 +218,8 @@ export default function Section6() {
 									</div>
 								</Link>
 								<div className="content">
-									<Link href="/team-details" className="name"> Sara Lindqvist </Link>
-									<p className="duty">Systems Engineer</p>
+									<Link href="/team-details" className="name"> AI Solutions Engineer </Link>
+									<p className="duty">AI Integration & Automation</p>
 									<ul className="social-list style-5 style-4">
 										<li>
 											<Link href="/team-details">
@@ -258,8 +258,8 @@ export default function Section6() {
 									</div>
 								</Link>
 								<div className="content">
-									<Link href="/team-details" className="name"> Derek Coleman </Link>
-									<p className="duty">Systems Engineer</p>
+									<Link href="/team-details" className="name"> Cloud & Security Lead </Link>
+									<p className="duty">Cloud, M365 & Cybersecurity</p>
 									<ul className="social-list style-5 style-4">
 										<li>
 											<Link href="/team-details">
@@ -298,8 +298,8 @@ export default function Section6() {
 									</div>
 								</Link>
 								<div className="content">
-									<Link href="/team-details" className="name"> Sara Lindqvist </Link>
-									<p className="duty">Systems Engineer</p>
+									<Link href="/team-details" className="name"> AI Solutions Engineer </Link>
+									<p className="duty">AI Integration & Automation</p>
 									<ul className="social-list style-5 style-4">
 										<li>
 											<Link href="/team-details">

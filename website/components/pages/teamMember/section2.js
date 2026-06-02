@@ -32,8 +32,8 @@ export default function Section2() {
 												src="/images/avatar/team-member-1.jpg" data-src="/images/avatar/team-member-1.jpg" alt="" className="lazyload" />
 										</div>
 										<div className="content">
-											<Link href="/team-details" className="name"> Daniel L. Braddock </Link>
-											<p className="duty">Systems Engineer</p>
+											<Link href="/team-details" className="name"> Joshua Kuhn </Link>
+											<p className="duty">Founder & Principal</p>
 											<ul className="social-list style-4">
 												<li>
 													<Link href="/#">
@@ -68,7 +68,7 @@ export default function Section2() {
 												src="/images/avatar/team-member-2.jpg" data-src="/images/avatar/team-member-2.jpg" alt="" className="lazyload" />
 										</div>
 										<div className="content">
-											<Link href="/team-details" className="name"> Michael B. Reader </Link>
+											<Link href="/team-details" className="name"> Senior Engineer </Link>
 											<p className="duty">Systems Engineer</p>
 											<ul className="social-list style-4">
 												<li>
@@ -104,7 +104,7 @@ export default function Section2() {
 												src="/images/avatar/team-member-3.jpg" data-src="/images/avatar/team-member-3.jpg" alt="" className="lazyload" />
 										</div>
 										<div className="content">
-											<Link href="/team-details" className="name"> Robert M. Carlson </Link>
+											<Link href="/team-details" className="name"> Cloud & Security Lead </Link>
 											<p className="duty">Systems Engineer</p>
 											<ul className="social-list style-4">
 												<li>
@@ -140,7 +140,7 @@ export default function Section2() {
 												src="/images/avatar/team-member-4.jpg" data-src="/images/avatar/team-member-4.jpg" alt="" className="lazyload" />
 										</div>
 										<div className="content">
-											<Link href="/team-details" className="name"> William C. Bowens </Link>
+											<Link href="/team-details" className="name"> Help Desk Engineer </Link>
 											<p className="duty">Systems Engineer</p>
 											<ul className="social-list style-4">
 												<li>
@@ -176,7 +176,7 @@ export default function Section2() {
 												src="/images/avatar/team-member-5.jpg" data-src="/images/avatar/team-member-5.jpg" alt="" className="lazyload" />
 										</div>
 										<div className="content">
-											<Link href="/team-details" className="name"> Robert B. Thompson </Link>
+											<Link href="/team-details" className="name"> Network Engineer </Link>
 											<p className="duty">Systems Engineer</p>
 											<ul className="social-list style-4">
 												<li>
@@ -212,7 +212,7 @@ export default function Section2() {
 												src="/images/avatar/team-member-6.jpg" data-src="/images/avatar/team-member-6.jpg" alt="" className="lazyload" />
 										</div>
 										<div className="content">
-											<Link href="/team-details" className="name"> Samuel D. Fletcher </Link>
+											<Link href="/team-details" className="name"> Backup & Recovery Specialist </Link>
 											<p className="duty">Systems Engineer</p>
 											<ul className="social-list style-4">
 												<li>
@@ -251,7 +251,7 @@ export default function Section2() {
 													src="/images/avatar/team-member-1.jpg" data-src="/images/avatar/team-member-1.jpg" alt="" className="lazyload" />
 											</div>
 											<div className="content">
-												<Link href="/team-details" className="name"> Daniel L. Braddock </Link>
+												<Link href="/team-details" className="name"> Joshua Kuhn </Link>
 												<p className="duty">Systems Engineer</p>
 												<ul className="social-list style-4">
 													<li>
@@ -287,7 +287,7 @@ export default function Section2() {
 													src="/images/avatar/team-member-2.jpg" data-src="/images/avatar/team-member-2.jpg" alt="" className="lazyload" />
 											</div>
 											<div className="content">
-												<Link href="/team-details" className="name"> Michael B. Reader </Link>
+												<Link href="/team-details" className="name"> Senior Engineer </Link>
 												<p className="duty">Systems Engineer</p>
 												<ul className="social-list style-4">
 													<li>
@@ -323,7 +323,7 @@ export default function Section2() {
 													src="/images/avatar/team-member-3.jpg" data-src="/images/avatar/team-member-3.jpg" alt="" className="lazyload" />
 											</div>
 											<div className="content">
-												<Link href="/team-details" className="name"> Robert M. Carlson </Link>
+												<Link href="/team-details" className="name"> Cloud & Security Lead </Link>
 												<p className="duty">Systems Engineer</p>
 												<ul className="social-list style-4">
 													<li>

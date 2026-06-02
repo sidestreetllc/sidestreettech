@@ -69,14 +69,14 @@ export default function Section3() {
 								<div className="content">
 									<p className="s-sub-title">
 										<i className="icon-angles-right moveLeftToRight" />
-										Meet out team
+										leadership
 									</p>
 									<p className="s-title letter-space-0 text-anime-wave">
-										Expert Team <span> Member </span>
+										Led by <span> Joshua Kuhn </span>
 									</p>
 								</div>
 								<Link href="/team-member" className="tf-btn style-3 text-anime-style-1">
-									Explore All Member
+									Work With Joshua
 									<i className="icon-chevron-right" />
 								</Link>
 							</div>
@@ -96,8 +96,8 @@ export default function Section3() {
 										src="/images/avatar/team-member-1.jpg" data-src="/images/avatar/team-member-1.jpg" alt="" className="lazyload" />
 								</div>
 								<div className="content">
-									<Link href="/team-details" className="name"> Daniel L. Braddock </Link>
-									<p className="duty">Systems Engineer</p>
+									<Link href="/team-details" className="name"> Joshua Kuhn </Link>
+									<p className="duty">Founder & Principal</p>
 									<ul className="social-list style-5 style-4">
 										<li>
 											<Link href="/#">
@@ -134,7 +134,7 @@ export default function Section3() {
 										src="/images/avatar/team-member-2.jpg" data-src="/images/avatar/team-member-2.jpg" alt="" className="lazyload" />
 								</div>
 								<div className="content">
-									<Link href="/team-details" className="name"> Michael B. Reader </Link>
+									<Link href="/team-details" className="name"> Senior Engineer </Link>
 									<p className="duty">Systems Engineer</p>
 									<ul className="social-list style-5 style-4">
 										<li>
@@ -172,7 +172,7 @@ export default function Section3() {
 										src="/images/avatar/team-member-3.jpg" data-src="/images/avatar/team-member-3.jpg" alt="" className="lazyload" />
 								</div>
 								<div className="content">
-									<Link href="/team-details" className="name"> Robert M. Carlson </Link>
+									<Link href="/team-details" className="name"> Cloud & Security Lead </Link>
 									<p className="duty">Systems Engineer</p>
 									<ul className="social-list style-5 style-4">
 										<li>
@@ -210,7 +210,7 @@ export default function Section3() {
 										src="/images/avatar/team-member-4.jpg" data-src="/images/avatar/team-member-4.jpg" alt="" className="lazyload" />
 								</div>
 								<div className="content">
-									<Link href="/team-details" className="name"> Jonathon D. Foutch </Link>
+									<Link href="/team-details" className="name"> AI Solutions Engineer </Link>
 									<p className="duty">Systems Engineer</p>
 									<ul className="social-list style-5 style-4">
 										<li>
