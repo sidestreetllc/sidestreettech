@@ -155,9 +155,7 @@ export default function Footer1() {
 											</Link>
 										</div>
 										<p>
-											Stay up-to-date with the latest trends in digital
-											marketing and receive exclusive <br /> tips and insights by
-											subscribing to our newsletter.
+											Practical IT, cloud, and AI tips for Upstate businesses <br /> — a few useful notes a month, no spam.
 										</p>
 										<form action="#" id="form-sub" className="form-sub style-4">
 											<fieldset>
@@ -185,8 +183,8 @@ export default function Footer1() {
 									<i className="icon-arrow-top fs-8"> </i>
 								</Link>
 								<p className="no-copy style-2">
-									Copyright © {new Date().getFullYear()} <span> Sidestreet Operations South Carolina LLC </span>.
-									Sidestreet® is a registered trademark, All Rights Reserved.
+									Copyright Â© {new Date().getFullYear()} <span> Sidestreet Operations South Carolina LLC </span>.
+									SidestreetÂ® is a registered trademark, All Rights Reserved.
 								</p>
 								<div className="policy-list">
 									<ul className="list">

@@ -14,10 +14,11 @@ import "/public/font/fonts.css"
 import "/public/icons/icomoon/style.css"
 import "/public/icons/flaticon/font/flaticon_saylo.css"
 import "/public/css/styles.css"
-import { Public_Sans } from 'next/font/google'
+import "/public/css/sidestreet-design-system.css"
+import { Outfit } from 'next/font/google'
 
-const publicSans = Public_Sans({
-    weight: ['300', '400', '500', '600', '700'],
+const outfit = Outfit({
+    weight: ['100', '200', '300', '400', '500', '600', '700', '800', '900'],
     subsets: ['latin'],
     display: 'swap',
 })
@@ -29,7 +30,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
     return (
         <html lang="en">
-            <body className={`${publicSans.className}`}>{children}</body>
+            <body className={`${outfit.className}`}>{children}</body>
         </html>
     )
 }
