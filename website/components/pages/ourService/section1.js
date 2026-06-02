@@ -15,10 +15,10 @@ export default function Section1() {
 									what we do
 								</p>
 								<p className="s-title text-center text-anime-style-2">
-									Empowering Businesses with Expert <br />
-									Business
+									Everything Your Business Needs <br />
+									From One Local
 									<span>
-										Technology
+										Partner
 									</span>
 								</p>
 							</div>
@@ -28,13 +28,12 @@ export default function Section1() {
 										<i className="flaticon-workflow" />
 									</div>
 									<Link href="/service-details" className="title">
-										Customized Strategic
-										Planning &amp; Ideas
+										Managed IT &amp;
+										Helpdesk
 									</Link>
 									<span className="line mb-30" />
 									<p className="text">
-										We develop tailored strategies that align with your business addressing unique
-										challenges leveraging.
+										Around-the-clock monitoring, patching, and same-day support — a full IT department for one predictable monthly fee.
 									</p>
 									<div className="image">
 										<Link href="/service-details">
@@ -52,13 +51,12 @@ export default function Section1() {
 										<i className="flaticon-workflow" />
 									</div>
 									<Link href="/service-details" className="title">
-										Customized Strategic
-										Planning &amp; Ideas
+										Cloud &amp;
+										Productivity
 									</Link>
 									<span className="line mb-30" />
 									<p className="text">
-										We develop tailored strategies that align with your business addressing unique
-										challenges leveraging.
+										Microsoft 365, Google Workspace, and AWS — designed, secured, and managed so your team can work from anywhere.
 									</p>
 									<div className="image">
 										<Link href="/service-details">
@@ -76,12 +74,11 @@ export default function Section1() {
 										<i className="flaticon-team" />
 									</div>
 									<Link href="/service-details" className="title">
-										Operational Efficiency Optimization
+										AI Integration &amp; Automation
 									</Link>
 									<span className="line mb-30" />
 									<p className="text">
-										We analyze and refine business the processes to improve productivity to reduce
-										costs, and enhance overall.
+										Put AI to work safely — Copilot, Claude, and ChatGPT with the guardrails and training to protect your data.
 									</p>
 									<div className="image">
 										<Link href="/service-details">

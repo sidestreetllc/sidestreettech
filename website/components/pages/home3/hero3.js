@@ -17,7 +17,7 @@ export default function Hero3() {
 							</span>
 						</p>
 						<p className="text mb-30">
-							Financial advisor plays a crucial role in helping individuals and businesses <br /> navigate the
+							We run the full technology stack for Upstate businesses <br /> — managed IT, cloud, security, and AI — so you can focus on
 							complexities of managing their finances and achieving
 						</p>
 						<Link href="/#" className="tf-btn style-15 text-anime-style-1">

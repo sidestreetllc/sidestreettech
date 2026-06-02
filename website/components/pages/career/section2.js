@@ -16,7 +16,7 @@ export default function Section2() {
 									</span>
 								</p>
 								<p className="text text-center">
-									Join our team and be part of a dynamic, forward-thinking company that’s dedicated to
+									Join a senior-led team building modern, AI-ready IT for businesses across the Upstate. We hire for curiosity, judgment, and a genuine
 									helping <br />
 									businesses succeed we’re always on the lookout for talented individuals.
 								</p>
@@ -30,10 +30,10 @@ export default function Section2() {
 										Part time
 									</p>
 									<p className="text">
-										We’re always on the lookout for talented individuals who are passionate
+										We’re a small, senior team in Spartanburg looking for people who like solving real problems for real businesses.
 									</p>
 									<p className="salary">
-										Salary : $200-$450
+										Competitive • based on experience
 									</p>
 									<Link href="/#" className=" small tf-btn style-8">
 										Apply Jobs
@@ -48,10 +48,10 @@ export default function Section2() {
 										Full time
 									</p>
 									<p className="text">
-										We’re always on the lookout for talented individuals who are passionate
+										We’re a small, senior team in Spartanburg looking for people who like solving real problems for real businesses.
 									</p>
 									<p className="salary">
-										Salary : $200-$450
+										Competitive • based on experience
 									</p>
 									<Link href="/#" className=" small tf-btn style-8">
 										Apply Jobs
@@ -60,16 +60,16 @@ export default function Section2() {
 								</div>
 								<div className="wg-job wow fadeInUp" data-wow-delay="0.2s">
 									<Link href="/#" className="name-job">
-										Software Developer
+										Help Desk Technician
 									</Link>
 									<p className="sub-job full">
 										Full time
 									</p>
 									<p className="text">
-										We’re always on the lookout for talented individuals who are passionate
+										We’re a small, senior team in Spartanburg looking for people who like solving real problems for real businesses.
 									</p>
 									<p className="salary">
-										Salary : $200-$450
+										Competitive • based on experience
 									</p>
 									<Link href="/#" className=" small tf-btn style-8">
 										Apply Jobs
@@ -78,16 +78,16 @@ export default function Section2() {
 								</div>
 								<div className="wg-job wow fadeInUp" data-wow-delay="0s">
 									<Link href="/#" className="name-job">
-										Graphics Designer
+										Systems / Network Engineer
 									</Link>
 									<p className="sub-job full">
 										Full time
 									</p>
 									<p className="text">
-										We’re always on the lookout for talented individuals who are passionate
+										We’re a small, senior team in Spartanburg looking for people who like solving real problems for real businesses.
 									</p>
 									<p className="salary">
-										Salary : $200-$450
+										Competitive • based on experience
 									</p>
 									<Link href="/#" className=" small tf-btn style-8">
 										Apply Jobs
@@ -96,16 +96,16 @@ export default function Section2() {
 								</div>
 								<div className="wg-job wow fadeInUp" data-wow-delay="0.1s">
 									<Link href="/#" className="name-job">
-										Motion Designer
+										Cybersecurity Analyst
 									</Link>
 									<p className="sub-job part">
 										Part time
 									</p>
 									<p className="text">
-										We’re always on the lookout for talented individuals who are passionate
+										We’re a small, senior team in Spartanburg looking for people who like solving real problems for real businesses.
 									</p>
 									<p className="salary">
-										Salary : $200-$450
+										Competitive • based on experience
 									</p>
 									<Link href="/#" className=" small tf-btn style-8">
 										Apply Jobs
@@ -114,16 +114,16 @@ export default function Section2() {
 								</div>
 								<div className="wg-job wow fadeInUp" data-wow-delay="0.2s">
 									<Link href="/#" className="name-job">
-										Financial Advisors
+										Cloud / Microsoft 365 Engineer
 									</Link>
 									<p className="sub-job part">
 										Part time
 									</p>
 									<p className="text">
-										We’re always on the lookout for talented individuals who are passionate
+										We’re a small, senior team in Spartanburg looking for people who like solving real problems for real businesses.
 									</p>
 									<p className="salary">
-										Salary : $200-$450
+										Competitive • based on experience
 									</p>
 									<Link href="/#" className=" small tf-btn style-8">
 										Apply Jobs

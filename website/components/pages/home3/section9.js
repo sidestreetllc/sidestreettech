@@ -33,9 +33,7 @@ export default function Section9() {
 							</span>
 						</p>
 						<p className="text text-white mb-40">
-							A financial advisor helps individuals and businesses make informed decisions about their
-							finances, offering guidance on investments, retirement planning, tax strategies.
-						</p>
+							We run the full technology stack for businesses across the Upstate — managed IT, cloud, security, and AI — with a senior team that answers the phone.</p>
 						<Link href="/faqs" className="tf-btn style-15 type-2 small text-anime-style-1">
 							Get A Quote
 							<i className="icon-chevron-right" />
@@ -46,7 +44,7 @@ export default function Section9() {
 							<div className="accordion-item">
 								<h2 className="accordion-header"onClick={() => handleAccordion(1)}>
 									<button className={`accordion-button ${isAccordion === 1 ? 'collapsed' : ''}`} type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-										What does a financial advisor do?
+										What does a managed IT provider do?
 									</button>
 								</h2>
 								<div id="collapseOne" className={`accordion-collapse collapse ${isAccordion === 1 ? 'show' : ''}`} data-bs-parent="#accordionExample">
@@ -60,7 +58,7 @@ export default function Section9() {
 							<div className="accordion-item">
 								<h2 className="accordion-header"onClick={() => handleAccordion(2)}>
 									<button className={`accordion-button ${isAccordion === 2 ? 'collapsed' : ''}`} type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-										Who should work with a financial advisor?
+										Who should work with an MSP?
 									</button>
 								</h2>
 								<div id="collapseTwo" className={`accordion-collapse collapse ${isAccordion === 2 ? 'show' : ''}`} data-bs-parent="#accordionExample">
@@ -74,7 +72,7 @@ export default function Section9() {
 							<div className="accordion-item">
 								<h2 className="accordion-header"onClick={() => handleAccordion(3)}>
 									<button className={`accordion-button ${isAccordion === 3 ? 'collapsed' : ''}`} type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-										How are financial advisors compensated?
+										How is managed IT priced?
 									</button>
 								</h2>
 								<div id="collapseThree" className={`accordion-collapse collapse ${isAccordion === 3 ? 'show' : ''}`} data-bs-parent="#accordionExample">

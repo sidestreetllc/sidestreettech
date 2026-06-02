@@ -20,33 +20,15 @@ export default function Section1() {
 											className="lazyload" data-src="/images/blog/blog-details.jpg" src="/images/blog/blog-details.jpg" alt="" />
 									</div>
 									<div className="tag-wrap">
-										<p>Technology</p>
+										<p>Cloud</p>
 									</div>
 								</div>
 								<p className="title font-main-2 s1 text-anime-wave">
-									Tailored Solutions Every Business Needs
-									a Custom Technology Strategy Technology
+									Cloud or On-Prem? A Straight Answer for Upstate Businesses
 									Expertise
 								</p>
 								<p className="text mb-35">
-									Business managed IT provides companies
-									with expert advice and tailored
-									solutions to help them overcome
-									challenges, enhance operations, and
-									achieve growth. By analyzing current
-									processes, identifying areas for
-									improvement, and developing actionable
-									strategies, engineers offer valuable
-									insights that lead to greater
-									efficiency, profitability, and
-									competitiveness. Whether you’re a
-									startup looking to establish a strong
-									foundation or an established business
-									aiming to scale or adapt to market
-									changes, managed IT offers the
-									expertise and guidance needed to
-									navigate complex environments and reach
-									your full potential
+									“Just move everything to the cloud” is the advice every business hears, and it’s only half right. For some Upstate companies the cloud is an obvious win. For others — especially manufacturers with equipment that has to talk to a local server — a hybrid setup makes far more sense. The right answer depends on how your team actually works, what you’re running, and what it costs over three years, not just next month.
 								</p>
 								<ul className="benefit-list style-2">
 									<li>
@@ -54,9 +36,21 @@ export default function Section1() {
 											<i className="icon-check" />
 										</div>
 										<p>
-											Assisting customers in booking
-											domestic and international
-											flights.
+											Lower upfront cost — trade a big server purchase for a predictable monthly fee.</p>
+									</li>
+									<li>
+										<div className="icon">
+											<i className="icon-check" />
+										</div>
+										<p>
+											Work from anywhere — secure access to files and apps from the office, home, or the road.</p>
+									</li>
+									<li>
+										<div className="icon">
+											<i className="icon-check" />
+										</div>
+										<p>
+											Predictable budgeting — no surprise capital expense when a server reaches end of life.
 										</p>
 									</li>
 									<li>
@@ -64,9 +58,14 @@ export default function Section1() {
 											<i className="icon-check" />
 										</div>
 										<p>
-											Organizing adventure activities
-											such as trekking, diving,
-											safaris, or extreme sports.
+											Built-in resilience — cloud platforms handle redundancy and backups most small servers can’t match.</p>
+									</li>
+									<li>
+										<div className="icon">
+											<i className="icon-check" />
+										</div>
+										<p>
+											Easier scaling — add users and storage as you grow instead of buying ahead for capacity you may never use.
 										</p>
 									</li>
 									<li>
@@ -74,54 +73,16 @@ export default function Section1() {
 											<i className="icon-check" />
 										</div>
 										<p>
-											Tailoring travel plans to meet
-											the specific needs and
-											preferences of the customer.
-										</p>
-									</li>
-									<li>
-										<div className="icon">
-											<i className="icon-check" />
-										</div>
-										<p>
-											Providing professional guides
-											for city tours, cultural
-											experiences, adventure
-											activities, etc.
-										</p>
-									</li>
-									<li>
-										<div className="icon">
-											<i className="icon-check" />
-										</div>
-										<p>
-											Arranging local transportation
-											such as car rentals, airport
-											transfers, or bus tours.
-										</p>
-									</li>
-									<li>
-										<div className="icon">
-											<i className="icon-check" />
-										</div>
-										<p>
-											Helping customers navigate the
-											visa application process for
-											international travel.
-										</p>
+											When the cloud isn’t the answer: if you run heavy local applications, line-of-business software tied to on-site hardware, or shop-floor systems that can’t tolerate internet hiccups, a well-designed hybrid setup keeps the speed of local with the safety of the cloud. The point isn’t to chase a trend — it’s to match the tools to how your business actually runs. That’s the conversation we have with every client before moving a single file.</p>
 									</li>
 								</ul>
 								<div className="block-quote mb-70">
 									<p className="cite font-main-2">
-										"Success in business just about
-										working harder working smarter
-										business engineer helps you see
-										what you can't, turning challenges
-										into opportunities and guiding ."
+										"Technology should make your team faster, not get in their way. That’s the whole job."
 									</p>
 									<div className="bot">
 										<Link href="/#" className="author-name hover-text-main-yellow">
-											William D. Galindo
+											Joshua Kuhn
 										</Link>
 									</div>
 								</div>
@@ -156,19 +117,7 @@ export default function Section1() {
 									Excellence
 								</p>
 								<p className="text mb-50">
-									By analyzing current processes,
-									identifying areas for improvement, and
-									developing actionable strategies,
-									engineers offer valuable insights that
-									lead to greater efficiency,
-									profitability, and competitiveness.
-									Whether you’re a startup looking to
-									establish a strong foundation or an
-									established business aiming to scale or
-									adapt to market changes, business
-									managed IT offers the expertise and
-									guidance needed to navigate
-								</p>
+									If you’re weighing a move — or just tired of babysitting an aging server — we’ll give you a straight assessment of what fits your business and what it really costs. No pressure, no jargon.</p>
 								<span className="line" />
 								<div className="bot mb-70">
 									<div className="tags">
@@ -228,11 +177,9 @@ export default function Section1() {
 												Richard M. Fudge
 											</Link>
 										</h6>
-										<p className="duty mb-10">Autor</p>
+										<p className="duty mb-10">Author</p>
 										<p className="text-note mb-20">
-											The world is a book, and those who do not travel read only one page
-											every
-											journey we undertake is a chapter filled with lessons, experiences
+											Founder & Principal of Sidestreet Technology. Joshua has run the company since 2010 and writes about practical, no-nonsense technology for Upstate businesses.
 										</p>
 										<ul className="social-list style-3">
 											<li>

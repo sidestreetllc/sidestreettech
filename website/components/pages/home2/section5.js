@@ -83,7 +83,7 @@ export default function Section5() {
 														</div>
 														<div className="tf-overlay" />
 														<div className="content text-center">
-															<Link href="/#" className="title"> Leadership Development Global
+															<Link href="/#" className="title"> Manufacturer Cuts Downtime
 															</Link>
 															<p className="sub-title mb-15">
 																<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
@@ -212,7 +212,7 @@ export default function Section5() {
 														</div>
 														<div className="tf-overlay" />
 														<div className="content text-center">
-															<Link href="/#" className="title"> Leadership Development Global
+															<Link href="/#" className="title"> Manufacturer Cuts Downtime
 															</Link>
 															<p className="sub-title mb-15">
 																<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
@@ -341,7 +341,7 @@ export default function Section5() {
 														</div>
 														<div className="tf-overlay" />
 														<div className="content text-center">
-															<Link href="/#" className="title"> Leadership Development Global
+															<Link href="/#" className="title"> Manufacturer Cuts Downtime
 															</Link>
 															<p className="sub-title mb-15">
 																<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
@@ -470,7 +470,7 @@ export default function Section5() {
 														</div>
 														<div className="tf-overlay" />
 														<div className="content text-center">
-															<Link href="/#" className="title"> Leadership Development Global
+															<Link href="/#" className="title"> Manufacturer Cuts Downtime
 															</Link>
 															<p className="sub-title mb-15">
 																<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
@@ -599,7 +599,7 @@ export default function Section5() {
 														</div>
 														<div className="tf-overlay" />
 														<div className="content text-center">
-															<Link href="/#" className="title"> Leadership Development Global
+															<Link href="/#" className="title"> Manufacturer Cuts Downtime
 															</Link>
 															<p className="sub-title mb-15">
 																<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
@@ -728,7 +728,7 @@ export default function Section5() {
 														</div>
 														<div className="tf-overlay" />
 														<div className="content text-center">
-															<Link href="/#" className="title"> Leadership Development Global
+															<Link href="/#" className="title"> Manufacturer Cuts Downtime
 															</Link>
 															<p className="sub-title mb-15">
 																<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,

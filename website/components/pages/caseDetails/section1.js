@@ -13,19 +13,16 @@ export default function Section1() {
 								<div className="top">
 									<div >
 										<h2 className="title mb-50 text-anime-wave">
-											Organizational <br /> Development and <br />
-											by Leadership
+											Modernizing IT for a <br /> Growing Upstate <br /> Manufacturer
 										</h2>
 										<span className="line mb-40" />
 										<p className="text s1 mb-20">
-											We implemented leadership training programs and <br /> designed an
-											organizational
-											development plan to enhance <br /> team collaboration.
+											We replaced aging servers with a secure hybrid cloud setup, locked down security, and added 24/7 monitoring and a same-day help desk.
 										</p>
 										<p className="text s2">
-											Company faced low employee engagement and leadership <br /> challenges that
+											Frequent downtime and untested backups were putting
 											were
-											affecting overall performance.
+											orders at risk.
 										</p>
 									</div>
 									<div className="entry-image-right tf-hover">
@@ -55,7 +52,7 @@ export default function Section1() {
 										</li>
 										<li>
 											<p className="name-meta">Location:</p>
-											<h6 className="sub-meta">Melbourne, Australia</h6>
+											<h6 className="sub-meta">Spartanburg County, SC</h6>
 										</li>
 										<li>
 											<p className="name-meta">Service:</p>
@@ -84,10 +81,10 @@ export default function Section1() {
 								The Project Story
 							</p>
 							<p className="text s3">
-								After conducting an initial assessment of ProTech Industries' operations, we identified
-								several bottlenecks in their supply chain and production processes. Key issues included
-								overstocking raw materials, misaligned production schedules with demand forecasts, and
-								outdated technology that hindered real-time decision-making.
+								After a full assessment, we found the real risks: an aging on-site server with no failover,
+								backups that hadn't been tested in over a year, no multi-factor authentication, and a
+								help-desk gap that left staff waiting hours when something broke on the floor. We mapped
+								a plan to fix all of it.
 							</p>
 						</div>
 						<div className="col-lg-6">
@@ -95,12 +92,12 @@ export default function Section1() {
 								The Challenge
 							</p>
 							<p className="text s3 mb-0">
-								A mid-sized manufacturing company, ProTech Industries, was experiencing rapid growth,
-								but their operational inefficiencies were starting to impact productivity and
-								profitability. They faced challenges in supply chain management, production scheduling,
-								and inventory control, leading to increased lead times, higher costs, and customer
-								dissatisfaction. The leadership team sought a managed IT firm to assess and
-								optimize their operations for scalability and sustainable growth.
+								A growing Upstate manufacturer was scaling fast, but their technology hadn't kept up.
+								An aging server, inconsistent backups, and no real security plan meant every outage
+								threatened production and shipping. With no internal IT staff, they needed a local
+								partner to take it all on and make it reliable â without hiring a full IT
+								department. They brought in Sidestreet to assess everything and
+								run it going forward.
 							</p>
 						</div>
 						<div className="col-lg-12">
@@ -109,20 +106,20 @@ export default function Section1() {
 								The Results
 							</p>
 							<p className="text s4 mb-30">
-								We recommended the integration of an ERP (Enterprise Resource Planning) system that
-								would automate and connect all departments—production, supply chain, and finance. Our
-								team worked closely with the company to implement the system and provided training for
-								staff to ensure smooth adoption.
+								We migrated files and email to a secure Microsoft 365 environment, replaced the failing
+								server with a hybrid setup that keeps shop-floor systems fast and local, and layered in
+								endpoint and email security with MFA plus monitored, tested backups. We also added
+								24/7 monitoring and a same-day help desk.
 							</p>
 						</div>
 						<div className="grid-layout-2 mb-100">
 							<div className="wg-benefit wow fadeInUp" data-wow-delay="0s">
 								<h6 className="name">
-									Production Efficiency
+									Downtime
 								</h6>
 								<p className="infor">
-									Increased by 30%, allowing the company to meet growing customer demand without
-									additional labor costs.
+									Dropped sharply once monitoring and proactive patching replaced the old break-fix
+									scramble.
 								</p>
 							</div>
 							<div className="wg-benefit wow fadeInUp" data-wow-delay="0.1s">
@@ -130,8 +127,8 @@ export default function Section1() {
 									Inventory Costs
 								</h6>
 								<p className="infor">
-									Were reduced by 20% due to better demand forecasting and the implementation of
-									JIT supply chain processes.
+									Recovery time went from days to hours, with backups now tested on a schedule, and
+									staff get help the same day.
 								</p>
 							</div>
 							<div className="wg-benefit wow fadeInUp" data-wow-delay="0s">
@@ -148,9 +145,7 @@ export default function Section1() {
 									Technology Integration
 								</h6>
 								<p className="infor">
-									Provided leadership with real-time insights into operations, enabling more
-									informed
-									decision-making and allowing them to adjust
+									Gave the owner clear visibility into systems, security, and backups — with quarterly reviews to plan ahead instead of react
 								</p>
 							</div>
 						</div>

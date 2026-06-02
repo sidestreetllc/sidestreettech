@@ -41,7 +41,7 @@ export default function Section3() {
 												<i className="flaticon-data-management" />
 											</div>
 											<Link href="/service-details" className="title fw-7">
-												Management Technology
+												Managed IT & Helpdesk
 											</Link>
 											<p className="text">
 												Sidestreet's managed IT services businesses the unlock
@@ -59,7 +59,7 @@ export default function Section3() {
 												<i className="flaticon-human-resources" />
 											</div>
 											<Link href="/service-details" className="title fw-7">
-												Resources Technology
+												Cybersecurity
 											</Link>
 											<p className="text">
 												Our resources managed IT services designed to optimize the organizations
@@ -78,11 +78,10 @@ export default function Section3() {
                                       " />
 											</div>
 											<Link href="/service-details" className="title fw-7">
-												Marketing Technology
+												Cloud & Microsoft 365
 											</Link>
 											<p className="text">
-												We analyze your current marketing efforts, identify areas for
-												improvement goals
+												Microsoft 365, Google Workspace, and AWS set up right and fully managed, so your team can work securely from anywhere.
 											</p>
 											<Link href="/service-details" className="tf-btn-readmore style-3">
 												Read More
@@ -96,11 +95,10 @@ export default function Section3() {
 												<i className="flaticon-return-of-investment" />
 											</div>
 											<Link href="/service-details" className="title fw-7">
-												Financial Technology
+												Backup & Disaster Recovery
 											</Link>
 											<p className="text">
-												Provides expert financial planning budget
-												risk management and investment.
+												Automated, tested backups with a clear recovery plan — so an outage is a quick restore, not a business-ending event.
 											</p>
 											<Link href="/service-details" className="tf-btn-readmore style-3">
 												Read More
@@ -115,7 +113,7 @@ export default function Section3() {
                                       " />
 											</div>
 											<Link href="/service-details" className="title fw-7">
-												Digital Transformation
+												AI Integration & Automation
 											</Link>
 											<p className="text">
 												Guiding businesses through the adoption of new technologies and digital
@@ -133,7 +131,7 @@ export default function Section3() {
 												<i className="flaticon-solution" />
 											</div>
 											<Link href="/service-details" className="title fw-7">
-												Operations Management
+												vCIO & IT Strategy
 											</Link>
 											<p className="text">
 												Analyzing an optimizing internal processes to improve efficiency, reduce

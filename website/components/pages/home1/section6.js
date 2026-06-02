@@ -64,9 +64,9 @@ export default function Section6() {
 								</p>
 								<p className="text mb-30">
 									Joshua Kuhn founded Sidestreet in 2010 and still runs point on every account.
-									His background is broadcast &mdash; NBC News, ESPN, and regional television &mdash;
-									where there are no second takes. That same precision and deadline discipline is
-									how Sidestreet Technology runs your systems.
+									He has spent his career building and supporting technology for businesses &mdash; cloud,
+									security, networks, and the media and production systems many companies rely on.
+									That experience is how Sidestreet Technology runs your systems.
 								</p>
 								<p className="text mb-40">
 									The approach is simple: no bait-and-switch on who&rsquo;s in the room, no handoff

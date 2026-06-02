@@ -24,15 +24,15 @@ export default function Section1() {
 									Mission &amp; vision
 								</p>
 								<p className="s-title mb-30 text-anime-wave">
-									Our Mission and Vision <br /> for Business
+									Our Mission &amp; Vision <br /> for the Upstate
 									<span>
 										Success
 									</span>
 								</p>
 								<p className="text mb-50">
-									Our mission is to provide innovative, results-driven managed IT solutions that
-									empower businesses to reach their full potential. We committed to delivering
-									personalized strategies that drive growth, enhance operational
+									We are the managed IT arm of Sidestreet, a Spartanburg company serving businesses
+									since 2010. Our purpose is simple: make modern, secure, AI-ready technology
+									genuinely accessible to every business in the Upstate — and stand behind it.
 								</p>
 								<ul className="list">
 									<li className="wow fadeInUp" data-wow-delay="0s">
@@ -45,9 +45,7 @@ export default function Section1() {
 											</p>
 										</div>
 										<p className="text">
-											Our mission is to empower businesses by providing innovative, data-driven
-											solutions that drive growth, enhance efficiency, and create lasting value.
-											We are committed to delivering exceptional service and personalized.
+											To give Upstate businesses enterprise-grade IT, security, and AI without the enterprise overhead — delivered by senior people who answer the phone and stand behind their work.
 										</p>
 									</li>
 									<li className="wow fadeInUp" data-wow-delay="0s">
@@ -56,13 +54,11 @@ export default function Section1() {
 												<i className="flaticon-opportunity" />
 											</div>
 											<p className="company">
-												Company Mission
+												Company Vision
 											</p>
 										</div>
 										<p className="text">
-											Our mission is to empower businesses by providing innovative, data-driven
-											solutions that drive growth, enhance efficiency, and create lasting value.
-											We are committed to delivering exceptional service and personalized.
+											To be the most trusted technology partner in Upstate South Carolina — the local team businesses call first when they want IT that just works.
 										</p>
 									</li>
 								</ul>

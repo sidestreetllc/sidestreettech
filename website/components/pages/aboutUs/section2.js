@@ -66,10 +66,7 @@ export default function Section2() {
 											</Link>
 										</div>
 										<p className="text">
-											Our vision is to be global leader delivering transformative to business
-											solutions that empower organizations to reach their full potential. We
-											strive to se standard for innovation, excellence, and customer success by
-											continuously
+											To be the most trusted technology partner in Upstate South Carolina — the local team businesses call first when they want IT that just works.
 										</p>
 									</li>
 								</ul>
@@ -95,15 +92,13 @@ export default function Section2() {
 										Why choose us
 									</p>
 									<p className="s-title text-white mb-30 text-anime-wave">
-										Professional Skills and
+										Senior People,
 										<span>
-											Experience
+											Real Accountability
 										</span>
 									</p>
 									<p className="text text-white">
-										Our roots are in broadcast and live production — work where there are no
-										second takes. That same precision and deadline discipline is how we run
-										your technology.
+										The senior person you meet is the senior person who does the work. No handoffs to junior staff, no surprise bills, and no waiting days for a callback when something breaks. We run your technology like the critical system it is.
 									</p>
 								</div>
 								<div className="content-right">

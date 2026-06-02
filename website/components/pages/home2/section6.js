@@ -87,7 +87,7 @@ export default function Section6() {
 												</div>
 											</div>
 											<p className="say font-main-2">
-												"We approached help with leadership development, and the results have
+												"They moved us to the cloud, locked down our security, and now things just work. When we do need them, someone picks up
 												been remarkable. Their coaching and training programs have performance."
 											</p>
 										</div>
@@ -141,7 +141,7 @@ export default function Section6() {
 												</div>
 											</div>
 											<p className="say font-main-2">
-												"We approached help with leadership development, and the results have
+												"They moved us to the cloud, locked down our security, and now things just work. When we do need them, someone picks up
 												been remarkable. Their coaching and training programs have performance."
 											</p>
 										</div>

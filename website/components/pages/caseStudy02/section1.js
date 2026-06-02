@@ -251,7 +251,7 @@ export default function Section1() {
 															<Link href="/#">Finance</Link>
 														</p>
 														<Link href="/#" className="title font-main-2 fw-7 hover-text-main-yellow mb-25">
-															Marketing Strategy Overhaul
+															Cloud Migration & Security
 														</Link>
 														<p className="text mb-20">
 															The product launch exceeded sales projections by 25% in the
@@ -487,7 +487,7 @@ export default function Section1() {
 															<Link href="/#">Finance</Link>
 														</p>
 														<Link href="/#" className="title font-main-2 fw-7 hover-text-main-yellow mb-25">
-															Marketing Strategy Overhaul
+															Cloud Migration & Security
 														</Link>
 														<p className="text mb-20">
 															The product launch exceeded sales projections by 25% in the
@@ -723,7 +723,7 @@ export default function Section1() {
 															<Link href="/#">Finance</Link>
 														</p>
 														<Link href="/#" className="title font-main-2 fw-7 hover-text-main-yellow mb-25">
-															Marketing Strategy Overhaul
+															Cloud Migration & Security
 														</Link>
 														<p className="text mb-20">
 															The product launch exceeded sales projections by 25% in the
@@ -959,7 +959,7 @@ export default function Section1() {
 															<Link href="/#">Finance</Link>
 														</p>
 														<Link href="/#" className="title font-main-2 fw-7 hover-text-main-yellow mb-25">
-															Marketing Strategy Overhaul
+															Cloud Migration & Security
 														</Link>
 														<p className="text mb-20">
 															The product launch exceeded sales projections by 25% in the
@@ -1195,7 +1195,7 @@ export default function Section1() {
 															<Link href="/#">Finance</Link>
 														</p>
 														<Link href="/#" className="title font-main-2 fw-7 hover-text-main-yellow mb-25">
-															Marketing Strategy Overhaul
+															Cloud Migration & Security
 														</Link>
 														<p className="text mb-20">
 															The product launch exceeded sales projections by 25% in the
@@ -1431,7 +1431,7 @@ export default function Section1() {
 															<Link href="/#">Finance</Link>
 														</p>
 														<Link href="/#" className="title font-main-2 fw-7 hover-text-main-yellow mb-25">
-															Marketing Strategy Overhaul
+															Cloud Migration & Security
 														</Link>
 														<p className="text mb-20">
 															The product launch exceeded sales projections by 25% in the

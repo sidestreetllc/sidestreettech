@@ -26,7 +26,7 @@ export default function Section5() {
 									</span>
 								</p>
 								<p className="text">
-									For financial advisors or technology partners, advanced technology allows for
+									For Upstate businesses, modern cloud and security tools make it possible to
 									real-time
 									tracking, in-depth <br /> data analysis, and the ability to offer more personalized,
 									precise solutions to clients.

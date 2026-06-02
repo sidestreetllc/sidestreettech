@@ -13,7 +13,7 @@ export default function Section1() {
 							Why choose us
 						</p>
 						<p className="s-title mb-40 text-anime-wave">
-							Unmatched Expertise for Your
+							Everything Your Business Needs
 							<span>
 								Business Success
 							</span>
@@ -89,8 +89,7 @@ export default function Section1() {
 										Customized Solutions
 									</Link>
 									<p>
-										We provide tailored strategies that address the unique challenges and
-										goals of each client, ensuring personalized approaches
+										Senior people do the work — the person you meet is the person who runs your account.
 									</p>
 								</div>
 							</li>

@@ -61,7 +61,7 @@ export default function Section8() {
 											</div>
 											<div className="mb-20">
 												<Link href="/blog-details" className="title fw-7 mb-10">
-													Power Leadership Development in Business Success
+													How Managed IT Keeps Upstate Businesses Running
 												</Link>
 											</div>
 											<Link href="/#" className="date">
@@ -187,7 +187,7 @@ export default function Section8() {
 											</div>
 											<div className="mb-20">
 												<Link href="/#" className="title fw-7 mb-10">
-													Power Leadership Development in Business Success
+													How Managed IT Keeps Upstate Businesses Running
 												</Link>
 											</div>
 											<Link href="/#" className="date">

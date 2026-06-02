@@ -54,7 +54,7 @@ export default function Section1() {
 										</li>
 										<li className={`item ${isTab === 6 ? 'active' : ''}`} onClick={() => handleTab(6)}>
 											<a>
-												Corporate
+												Manufacturing
 											</a>
 										</li>
 									</ul>
@@ -75,16 +75,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Leadership Development Global
+																Manufacturer Cuts Downtime
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -105,7 +104,7 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Market Expansion for Startup
+																Law Firm Locks Down Security
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
@@ -113,8 +112,7 @@ export default function Section1() {
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -139,12 +137,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -169,12 +166,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -195,16 +191,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Planning for Business Expansion
+																Logistics Firm Connects Multiple Sites
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -229,12 +224,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -259,12 +253,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -285,16 +278,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Digital Transformation for Business
+																Clinic Moves to the Cloud
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -319,12 +311,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -349,12 +340,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -379,12 +369,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -409,12 +398,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -439,16 +427,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Leadership Development Global
+																Manufacturer Cuts Downtime
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -469,7 +456,7 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Market Expansion for Startup
+																Law Firm Locks Down Security
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
@@ -477,8 +464,7 @@ export default function Section1() {
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -503,12 +489,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -533,12 +518,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -559,16 +543,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Planning for Business Expansion
+																Logistics Firm Connects Multiple Sites
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -593,12 +576,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -623,12 +605,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -649,16 +630,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Digital Transformation for Business
+																Clinic Moves to the Cloud
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -683,12 +663,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -713,12 +692,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -743,12 +721,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -773,12 +750,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -803,16 +779,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Leadership Development Global
+																Manufacturer Cuts Downtime
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -833,7 +808,7 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Market Expansion for Startup
+																Law Firm Locks Down Security
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
@@ -841,8 +816,7 @@ export default function Section1() {
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -867,12 +841,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -897,12 +870,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -923,16 +895,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Planning for Business Expansion
+																Logistics Firm Connects Multiple Sites
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -957,12 +928,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -987,12 +957,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1013,16 +982,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Digital Transformation for Business
+																Clinic Moves to the Cloud
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1047,12 +1015,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1077,12 +1044,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1107,12 +1073,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1137,12 +1102,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1167,16 +1131,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Leadership Development Global
+																Manufacturer Cuts Downtime
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1197,7 +1160,7 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Market Expansion for Startup
+																Law Firm Locks Down Security
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
@@ -1205,8 +1168,7 @@ export default function Section1() {
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1231,12 +1193,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1261,12 +1222,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1287,16 +1247,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Planning for Business Expansion
+																Logistics Firm Connects Multiple Sites
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1321,12 +1280,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1351,12 +1309,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1377,16 +1334,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Digital Transformation for Business
+																Clinic Moves to the Cloud
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1411,12 +1367,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1441,12 +1396,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1471,12 +1425,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1501,12 +1454,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1531,16 +1483,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Leadership Development Global
+																Manufacturer Cuts Downtime
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1561,7 +1512,7 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Market Expansion for Startup
+																Law Firm Locks Down Security
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
@@ -1569,8 +1520,7 @@ export default function Section1() {
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1595,12 +1545,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1625,12 +1574,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1651,16 +1599,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Planning for Business Expansion
+																Logistics Firm Connects Multiple Sites
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1685,12 +1632,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1715,12 +1661,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1741,16 +1686,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Digital Transformation for Business
+																Clinic Moves to the Cloud
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1775,12 +1719,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1805,12 +1748,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1835,12 +1777,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1865,12 +1806,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1895,16 +1835,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Leadership Development Global
+																Manufacturer Cuts Downtime
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1925,7 +1864,7 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Market Expansion for Startup
+																Law Firm Locks Down Security
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
@@ -1933,8 +1872,7 @@ export default function Section1() {
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1959,12 +1897,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -1989,12 +1926,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -2015,16 +1951,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Planning for Business Expansion
+																Logistics Firm Connects Multiple Sites
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -2049,12 +1984,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -2079,12 +2013,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -2105,16 +2038,15 @@ export default function Section1() {
 													<div className="content">
 														<h5 className="title">
 															<Link href="/#">
-																Digital Transformation for Business
+																Clinic Moves to the Cloud
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -2139,12 +2071,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -2169,12 +2100,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -2199,12 +2129,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>
@@ -2229,12 +2158,11 @@ export default function Section1() {
 															</Link>
 														</h5>
 														<p className="tag-text-wrap style-2 mb-25">
-															<Link href="/#">Corporate</Link>, <Link href="/#">Business</Link>,
+															<Link href="/#">Manufacturing</Link>, <Link href="/#">Managed IT</Link>,
 															<Link href="/#">Finance</Link>
 														</p>
 														<p className="text mb-25">
-															The startup wanted to expand into new
-															international markets but lacked.
+															Aging servers and ad-hoc backups were putting production at risk — here's what we changed.
 														</p>
 														<Link href="/#" className="btn-view">
 															<span>+</span>

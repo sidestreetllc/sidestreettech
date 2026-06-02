@@ -94,14 +94,7 @@ export default function Section1() {
 									Hello
 								</h2>
 								<p className="text s1 mb-50">
-									A business engineer provides expert guidance to help organizations navigate
-									challenges, seize opportunities, and achieve their full potential. By analyzing the
-									company’s current operations, identifying inefficiencies, and uncovering growth
-									opportunities, a business engineer develops tailored strategies that drive
-									success.
-									Whether refining business processes, optimizing financial performance implementing
-									innovative technologies, engineers work closely with clients to deliver actionable
-									solutions.
+									Joshua founded Sidestreet in 2010 and still runs point on every client account. He has spent his career building and supporting technology for businesses across the Southeast — cloud, security, networks, and the media and production systems many companies rely on. His approach is direct: the senior person you meet is the person who does the work, and technology should make your team faster, not get in the way.
 								</p>
 								<p className="title font-main-2 fw-7 mb-20">
 									Professional Qualification
@@ -155,7 +148,7 @@ export default function Section1() {
 										</div>
 										<div >
 											<h6 className="type">
-												Digital Marketing Strategy
+												Digital AI & Automation
 											</h6>
 											<p>
 												Reach your customers where they are. Our digital marketing solutions
@@ -239,7 +232,7 @@ export default function Section1() {
 									Our award-winning services reflect our commitment to excellence, innovation, and
 									client
 									success. Over the years, we’ve been recognized for our outstanding performance in
-									various areas, from busin managed IT and marketing strategy to customer service and
+									every part of your technology — from managed IT and cloud to security and AI — and
 									leadership. These accolades serve as a testament to the quality of our work, the
 									dedication of our team, and the trust our clients place in us.
 								</p>

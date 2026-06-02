@@ -29,7 +29,7 @@ export default function Section1() {
 													<i className=" icon-user" />
 												</div>
 												<Link href="/#">
-													William D. Galindo
+													Joshua Kuhn
 												</Link>
 											</li>
 											<li className="entry date">
@@ -52,16 +52,14 @@ export default function Section1() {
 									</div>
 									<div className="entry-title">
 										<p className="font-main-2 text-anime-wave">
-											Role of a Managed IT Agency in Driving Innovation Key to Business
+											Cloud or On-Prem? A Straight Answer for Upstate Businesses
 											Success
 										</p>
 									</div>
 									<div className="entry-text">
 										<p>
-											The managed IT process typically begins with an in-depth analysis of your
-											business operations, goals challenges
-											We then provide strategic recommendations and work closely with you to
-											implement solutions
+											Most small businesses don't need a server closet anymore — but “move everything to the cloud” isn't always right either. Here's how we help clients decide, and what it actually costs.
+											Read more on the blog.
 										</p>
 									</div>
 									<div className="entry-btn">
@@ -90,7 +88,7 @@ export default function Section1() {
 													<i className=" icon-user" />
 												</div>
 												<Link href="/#">
-													William D. Galindo
+													Joshua Kuhn
 												</Link>
 											</li>
 											<li className="entry date">
@@ -113,16 +111,14 @@ export default function Section1() {
 									</div>
 									<div className="entry-title">
 										<p className="font-main-2 text-anime-wave">
-											Role of a Managed IT Agency in Driving Innovation Key to Business
+											Using AI Safely: A Practical Guide for Small Businesses
 											Success
 										</p>
 									</div>
 									<div className="entry-text">
 										<p>
-											The managed IT process typically begins with an in-depth analysis of your
-											business operations, goals challenges
-											We then provide strategic recommendations and work closely with you to
-											implement solutions
+											Your team is probably already using ChatGPT. The question is whether your company data is safe. Here's how to roll out AI with the right guardrails — without slowing anyone down.
+											Read more on the blog.
 										</p>
 									</div>
 									<div className="entry-btn">
@@ -134,13 +130,12 @@ export default function Section1() {
 								</div>
 								<div className="block-quote mb-50">
 									<p className="cite font-main-2">
-										"Success in business just about working harder working smarter business
-										engineer helps you see what you can't, turning challenges into opportunities
+										"Technology should make your team faster, not get in their way. That’s the whole job."
 										and guiding ."
 									</p>
 									<div className="bot">
 										<Link href="/#" className="author-name hover-text-main-yellow">
-											William D. Galindo
+											Joshua Kuhn
 										</Link>
 									</div>
 								</div>
@@ -163,7 +158,7 @@ export default function Section1() {
 													<i className=" icon-user" />
 												</div>
 												<Link href="/#">
-													William D. Galindo
+													Joshua Kuhn
 												</Link>
 											</li>
 											<li className="entry date">
@@ -186,16 +181,14 @@ export default function Section1() {
 									</div>
 									<div className="entry-title">
 										<p className="font-main-2 text-anime-wave">
-											Role of a Managed IT Agency in Driving Innovation Key to Business
+											Five Cybersecurity Basics Every Upstate Business Should Have
 											Success
 										</p>
 									</div>
 									<div className="entry-text">
 										<p>
-											The managed IT process typically begins with an in-depth analysis of your
-											business operations, goals challenges
-											We then provide strategic recommendations and work closely with you to
-											implement solutions
+											You don't need an enterprise budget to be hard to hack. These five fundamentals — MFA, patching, backups, email filtering, and training — stop the vast majority of attacks.
+											Read more on the blog.
 										</p>
 									</div>
 									<div className="entry-btn">
@@ -207,13 +200,12 @@ export default function Section1() {
 								</div>
 								<div className="block-quote mb-50">
 									<p className="cite font-main-2">
-										"Success in business just about working harder working smarter business
-										engineer helps you see what you can't, turning challenges into opportunities
+										"Technology should make your team faster, not get in their way. That’s the whole job."
 										and guiding ."
 									</p>
 									<div className="bot">
 										<Link href="/#" className="author-name hover-text-main-yellow">
-											William D. Galindo
+											Joshua Kuhn
 										</Link>
 									</div>
 								</div>
@@ -255,37 +247,37 @@ export default function Section1() {
 										<ul className="category-list">
 											<li>
 												<Link href="/#">
-													Marketing Technology
+													Managed IT
 													<i className="icon-chevron-right" />
 												</Link>
 											</li>
 											<li>
 												<Link href="/#">
-													Resources Technology
+													Cybersecurity
 													<i className="icon-chevron-right" />
 												</Link>
 											</li>
 											<li>
 												<Link href="/#">
-													Management Technology
+													Managed IT
 													<i className="icon-chevron-right" />
 												</Link>
 											</li>
 											<li>
 												<Link href="/#">
-													Financial Technology
+													Cloud & Microsoft 365
 													<i className="icon-chevron-right" />
 												</Link>
 											</li>
 											<li>
 												<Link href="/#">
-													Operations Management
+													AI & Automation
 													<i className="icon-chevron-right" />
 												</Link>
 											</li>
 											<li>
 												<Link href="/#">
-													Management Technology
+													Managed IT
 													<i className="icon-chevron-right" />
 												</Link>
 											</li>

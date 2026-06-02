@@ -41,7 +41,7 @@ export default function Section7() {
 											<div className="content">
 												<h5 className="title">
 													<Link href="/#">
-														Leadership Development Global
+														Manufacturer Cuts Downtime
 													</Link>
 												</h5>
 												<p className="tag-text-wrap style-2 mb-25">

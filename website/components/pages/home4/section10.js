@@ -58,7 +58,7 @@ export default function Section10() {
 													</ul>
 												</div>
 												<Link href="/blog-details" className="title fw-7 mb-30">
-													The Leadership Development in Business Success
+													How Managed IT Keeps Upstate Businesses Running
 												</Link>
 												<Link href="/blog-details" className="btn-view has-text">
 													<span className="plus"> + </span>

@@ -30,7 +30,7 @@ export default function Section3() {
 								</div>
 								<p className="text mb-30">
 									We provide expert what we do designed to help businesses thrive in
-									today’s
+									todayâs
 									dynamic marketplace. With a team of experienced professionals, we offer
 									tailored
 									solutions that address your unique challenges, from strategic planning.
@@ -62,7 +62,7 @@ export default function Section3() {
 									Managed IT & Support
 								</Link>
 								<p className="text">
-									Sidestreet's managed IT services designed businesses the unlock
+									Help desk, remote monitoring, patching, and updates â plus vendor and ISP management, so your systems stay current and your team always has someone to call.
 									potential
 									addressing.
 								</p>
@@ -79,7 +79,7 @@ export default function Section3() {
 									Cybersecurity & Backup
 								</Link>
 								<p className="text">
-									Focuses on optimizing work management and they employee engagement
+									Ransomware protection, layered security, and server and endpoint backups â with risk management built for small and mid-sized businesses.
 									engineers
 									provide.
 								</p>
@@ -96,7 +96,7 @@ export default function Section3() {
 									Cloud & Collaboration
 								</Link>
 								<p className="text">
-									We partner with businesses to develop data-driven strategies that enhance
+									Microsoft 365, Google Workspace, cloud communications, and Apple device support â set up, secured, and managed so your team works from anywhere.
 									customer
 									engagement
 								</p>
@@ -113,9 +113,7 @@ export default function Section3() {
 									AI Integration
 								</Link>
 								<p className="text">
-									Provides expertise financial planning, budgeting, risk management and
-									investment
-									strategies financial.
+									Adopt Copilot, Claude, and ChatGPT safely, plus custom solution development and workflow automation — with the guardrails and training to protect your data.
 								</p>
 								<Link href="/our-service" className="tf-btn-readmore style-3">
 									Read More

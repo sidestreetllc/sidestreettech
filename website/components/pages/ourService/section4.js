@@ -59,9 +59,7 @@ export default function Section4() {
 													<i className="icon-quote-left-saying-speech" />
 												</div>
 												<p className="say font-main-2 mb-30">
-													"Working with Sidestreet Technology was a game changer for our company their team
-													quickly identy
-													operations and helped streamline,"
+													"They moved us to the cloud, locked down our security, and now things just work. When we do need them, someone picks up and actually knows our setup."
 												</p>
 												<div className="bot">
 													<Link href="/#" className="name fw-7"> Upstate SC client </Link>
@@ -75,9 +73,7 @@ export default function Section4() {
 													<i className="icon-quote-left-saying-speech" />
 												</div>
 												<p className="say font-main-2 mb-30">
-													"Working with Sidestreet Technology was a game changer for our company their team
-													quickly identy
-													operations and helped streamline,"
+													"They moved us to the cloud, locked down our security, and now things just work. When we do need them, someone picks up and actually knows our setup."
 												</p>
 												<div className="bot">
 													<Link href="/#" className="name fw-7"> Upstate SC client </Link>

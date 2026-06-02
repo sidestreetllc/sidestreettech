@@ -24,11 +24,11 @@ export default function Section1() {
 						<div className="col-lg-4">
 							<div className="wg-pricing ">
 								<div className="plan">
-									<p>Basic Plan</p>
+									<p>Essential</p>
 								</div>
 								<div className="price-wrap mb-20">
 									<p className="price">
-										$19.00<span>/per month </span>
+										$125<span>/user / month</span>
 									</p>
 								</div>
 								<p className="text mb-25">
@@ -45,7 +45,7 @@ export default function Section1() {
 											<i className="icon-star-of-life" />
 										</div>
 										<p>
-											Initial business assessment
+											Help desk & remote support
 										</p>
 									</li>
 									<li>
@@ -53,7 +53,7 @@ export default function Section1() {
 											<i className="icon-star-of-life" />
 										</div>
 										<p>
-											Market research and competitor
+											Proactive monitoring & patching
 										</p>
 									</li>
 									<li>
@@ -61,7 +61,7 @@ export default function Section1() {
 											<i className="icon-star-of-life" />
 										</div>
 										<p>
-											Basic financial review
+											Endpoint & email security
 										</p>
 									</li>
 									<li>
@@ -69,7 +69,7 @@ export default function Section1() {
 											<i className="icon-xmark" />
 										</div>
 										<p>
-											Monthly check-in for 3 months
+											Microsoft 365 or Google Workspace admin
 										</p>
 									</li>
 									<li>
@@ -77,7 +77,7 @@ export default function Section1() {
 											<i className="icon-xmark" />
 										</div>
 										<p>
-											Email support for ongoing questions
+											Monitored backups
 										</p>
 									</li>
 								</ul>
@@ -91,12 +91,12 @@ export default function Section1() {
 									<i className="icon-star" />
 								</div>
 								<div className="plan">
-									<p>Standard Plan</p>
+									<p>Complete</p>
 								</div>
 								<div className="price-wrap mb-20">
 									<p className="price">
-										$39.00
-										<span> /per month </span>
+										$199
+										<span> /user / month</span>
 									</p>
 								</div>
 								<p className="text mb-25">
@@ -113,7 +113,7 @@ export default function Section1() {
 											<i className="icon-star-of-life" />
 										</div>
 										<p>
-											Initial business assessment
+											Everything in Essential
 										</p>
 									</li>
 									<li>
@@ -121,7 +121,7 @@ export default function Section1() {
 											<i className="icon-star-of-life" />
 										</div>
 										<p>
-											Market research and competitor
+											24/7 monitoring & faster response
 										</p>
 									</li>
 									<li>
@@ -129,7 +129,7 @@ export default function Section1() {
 											<i className="icon-star-of-life" />
 										</div>
 										<p>
-											Basic financial review
+											Cloud & network management
 										</p>
 									</li>
 									<li>
@@ -137,7 +137,7 @@ export default function Section1() {
 											<i className="icon-star-of-life" />
 										</div>
 										<p>
-											Monthly check-in for 3 months
+											Multi-factor authentication & security training
 										</p>
 									</li>
 									<li>
@@ -145,7 +145,7 @@ export default function Section1() {
 											<i className="icon-xmark" />
 										</div>
 										<p>
-											Email support for ongoing questions
+											Quarterly technology reviews
 										</p>
 									</li>
 								</ul>
@@ -154,12 +154,12 @@ export default function Section1() {
 						<div className="col-lg-4">
 							<div className="wg-pricing last ">
 								<div className="plan">
-									<p>Premium Plan</p>
+									<p>Complete + AI</p>
 								</div>
 								<div className="price-wrap mb-20">
 									<p className="price">
-										$93.00
-										<span> /per month </span>
+										$275
+										<span> /user / month</span>
 									</p>
 								</div>
 								<p className="text mb-25">
@@ -176,7 +176,7 @@ export default function Section1() {
 											<i className="icon-star-of-life" />
 										</div>
 										<p>
-											Initial business assessment
+											Everything in Complete
 										</p>
 									</li>
 									<li>
@@ -184,7 +184,7 @@ export default function Section1() {
 											<i className="icon-star-of-life" />
 										</div>
 										<p>
-											Market research and competitor
+											Safe AI rollout (Copilot, Claude, ChatGPT)
 										</p>
 									</li>
 									<li>
@@ -192,7 +192,7 @@ export default function Section1() {
 											<i className="icon-star-of-life" />
 										</div>
 										<p>
-											Basic financial review
+											AI policy, guardrails & staff training
 										</p>
 									</li>
 									<li>
@@ -200,7 +200,7 @@ export default function Section1() {
 											<i className="icon-star-of-life" />
 										</div>
 										<p>
-											Monthly check-in for 3 months
+											Workflow automation
 										</p>
 									</li>
 									<li>
@@ -208,7 +208,7 @@ export default function Section1() {
 											<i className="icon-star-of-life" />
 										</div>
 										<p>
-											Email support for ongoing questions
+											Priority senior-led support
 										</p>
 									</li>
 								</ul>

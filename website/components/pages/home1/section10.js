@@ -62,13 +62,11 @@ export default function Section10() {
 												</ul>
 											</div>
 											<Link href="/blog-standard" className="title fw-7 mb-10 text-clamp-2">
-												Power of Leadership Development
+												Cloud or On-Prem? A Straight Answer
 												in Business Success
 											</Link>
 											<p className="text mb-25">
-												Provides expertise financial planning, budgeting, risk
-												management, and investment strategies.
-											</p>
+												When the cloud makes sense, when it doesn't, and what it actually costs over three years.</p>
 											<Link href="/blog-standard" className="tf-btn style-8 small type-2">
 												Read More
 												<i className="icon-chevron-right" />

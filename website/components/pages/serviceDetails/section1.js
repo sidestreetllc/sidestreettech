@@ -28,28 +28,21 @@ export default function Section1() {
 									</div>
 								</div>
 								<p className="title s1 mb-10 text-anime-wave">
-									Unlocking Growth the Strategic Marketing
+									Managed IT & Helpdesk Support
 								</p>
 								<p className="text s1 mb-25">
-									We specialize in providing comprehensive marketing managed IT services designed to
-									elevate your brand, enhance customer
-									engagement, and drive measurable business growth. Our tailored solutions help
-									navigate
-									the complexities of today’s marketing landscape by developing strategies that are
-									data-driven, innovative,
-									and aligned with your business objectives.
+									We run your day-to-day IT so your team doesn't have to. From the help desk to the server room, we keep your technology monitored, patched, secure, and backed up — for one predictable monthly fee. When something needs attention, you get a local team that already knows your environment and picks up the phone.
 								</p>
-								<p className="text s2 mb-40">Understand your target market, industry trends, and customer
-									behaviors. This helps in identifying growth opportunities,
-									consumer pain points, and competitive positioning to craft more effective marketing
+								<p className="text s2 mb-40">We start with a full assessment of your systems, security, and backups — so we
+									understand exactly what you're running and where the risks and quick wins are
+									before we take anything over.
 									strategies
 								</p>
 								<h3 className="title-2 s1 text-anime-wave">
-									Our Key Marketing Managed IT Services Include:
+									What's Included:
 								</h3>
-								<p className="text s3">We focus on long-term success by developing strategies that not only
-									solve immediate challenges but also position
-									businesses for sustainable growth and continuous improvement.
+								<p className="text s3">We focus on keeping your systems quiet and stable — fixing the root cause, not just
+									the symptom — so technology stops interrupting your business.
 								</p>
 								<ul className="list-1">
 									<li>
@@ -60,12 +53,10 @@ export default function Section1() {
 										</div>
 										<div >
 											<h6>
-												<Link href="/#">Market Research &amp; Competitor Analysis</Link>
+												<Link href="/#">Help Desk & Remote Support</Link>
 											</h6>
 											<p>
-												Gain a deeper understanding of your industry landscape and target
-												audience through in-depth market research. We analyze competitor
-												strategies, identify market gaps.
+												Real people who know your setup, reachable by call, ticket, or chat. Most issues are resolved remotely the same business day — many within the hour.
 											</p>
 										</div>
 									</li>
@@ -77,11 +68,10 @@ export default function Section1() {
 										</div>
 										<div >
 											<h6>
-												<Link href="/#">Brand Strategy Development</Link>
+												<Link href="/#">Proactive Monitoring & Patching</Link>
 											</h6>
 											<p>
-												We help you build or refine your brand identity to ensure consistency
-												and relevance. From defining your brand’s mission and values to creating
+												We watch your systems around the clock and keep everything patched and up to date, so problems get caught and fixed before they ever reach your team.
 												a compelling
 											</p>
 										</div>
@@ -94,11 +84,10 @@ export default function Section1() {
 										</div>
 										<div >
 											<h6>
-												<Link href="/#">Digital Marketing Strategy</Link>
+												<Link href="/#">Security & Backup</Link>
 											</h6>
 											<p>
-												Reach your customers where they are. Our digital marketing solutions
-												cover SEO, social media marketing, email marketing, and PPC
+												Endpoint and email protection, multi-factor authentication, and monitored backups — layered security that keeps you protected and recoverable.
 												(pay-per-click) campaigns.
 											</p>
 										</div>
@@ -127,35 +116,35 @@ export default function Section1() {
 									Our Easy Working Process
 								</h3>
 								<p className="text s4 mb-50">
-									This approach provides clear, detailed information about your marketing managed IT
+									This gives you clear, documented visibility into your IT — what you have, how it's
+									protected, and what we recommend next.
 									services in a way that is
 									client-focused and actionable for potential businesses looking to grow their
-									marketing efforts.
+									your current setup.
 								</p>
 								<ul className="list-2 mb-70">
 									<li>
 										<p className="step-number">Step 01</p>
 										<h6 className="caption">
-											Discovery &amp; Research
+											Discovery & Assessment
 										</h6>
 										<div className="icon">
 											<i className="icon-check-2" />
 										</div>
 										<p className="text">
-											We begin by understanding your business, target audience
-											and current marketing efforts.
+											We learn your business and audit your systems, security, and backups before taking anything over.
 										</p>
 									</li>
 									<li>
 										<p className="step-number"> Step 02</p>
 										<h6 className="caption">
-											Strategy Development
+											Roadmap & Plan
 										</h6>
 										<div className="icon">
 											<i className="icon-check-2" />
 										</div>
 										<p className="text">
-											Based on our research, we customized market strategy tailored to your goals.
+											We document what we found and lay out a clear, prioritized plan — explained in plain language.
 										</p>
 									</li>
 									<li>
@@ -167,7 +156,7 @@ export default function Section1() {
 											<i className="icon-check-2" />
 										</div>
 										<p className="text">
-											We execute to the marketing strategy to selected channels, continuously
+											We deploy monitoring, security, and backups and onboard your team — then keep improving, continuously
 											performance.
 										</p>
 									</li>
@@ -177,7 +166,7 @@ export default function Section1() {
 								</h3>
 								<p className="text s5 mb-40">
 									We offer a wide range of services, including strategic planning, operations
-									management, financial managed IT, marketing
+									managed IT, cloud, cybersecurity, and AI integration
 									strategy, digital transformation, market research, and organizational development.
 									Our goal is to provide tailored
 									solutions that help businesses grow, streamline.
@@ -253,37 +242,37 @@ export default function Section1() {
 										<ul className="category-list">
 											<li>
 												<Link href="/#">
-													Marketing Technology
+													Managed IT & Helpdesk
 													<i className="icon-chevron-right" />
 												</Link>
 											</li>
 											<li>
 												<Link href="/#">
-													Resources Technology
+													Cybersecurity
 													<i className="icon-chevron-right" />
 												</Link>
 											</li>
 											<li>
 												<Link href="/#">
-													Management Technology
+													Cloud & Microsoft 365
 													<i className="icon-chevron-right" />
 												</Link>
 											</li>
 											<li>
 												<Link href="/#">
-													Financial Technology
+													Backup & Disaster Recovery
 													<i className="icon-chevron-right" />
 												</Link>
 											</li>
 											<li>
 												<Link href="/#">
-													Operations Management
+													AI Integration & Automation
 													<i className="icon-chevron-right" />
 												</Link>
 											</li>
 											<li>
 												<Link href="/#">
-													Management Technology
+													vCIO & IT Strategy
 													<i className="icon-chevron-right" />
 												</Link>
 											</li>

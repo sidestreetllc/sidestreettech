@@ -114,10 +114,7 @@ export default function Section3() {
 									fifteen years later, he still runs point on every client account.
 								</p>
 								<p className="text mb-30">
-									His background is broadcast journalism and media production, with work that included
-									NBC News, ESPN, and regional television across the South. That discipline shows up in how
-									Sidestreet Technology approaches every project: precision, deadline awareness, and getting
-									it right the first time.
+									He has spent his career building and supporting technology for businesses across the Southeast — from cloud and security to the media and production systems many companies rely on. That experience shows up in how Sidestreet Technology approaches every project: practical, precise, and built to keep running.
 								</p>
 								<p className="text">
 									No bait-and-switch on who&rsquo;s in the room, no handoff to junior staff, no mystery about

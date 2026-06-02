@@ -27,7 +27,7 @@ export default function Section2() {
 										working process
 									</p>
 									<p className="s-title text-white text-anime-wave">
-										Crafting your Success <br />
+										Onboarding, Done Right <br />
 										to Process
 										<span>
 											Roadmap
@@ -36,7 +36,7 @@ export default function Section2() {
 								</div>
 								<div className="wg-step-skill ">
 									<p className="title font-main-2 mb-30 ">
-										Step-by-Step Technology for Sustainable Growth
+										A clear, four-step path from first call to fully managed.
 									</p>
 									<span className="line" />
 									<ul className="benefit-list">
@@ -45,7 +45,7 @@ export default function Section2() {
 												<i className="icon-check-2" />
 											</div>
 											<p>
-												Core Competencies and Expertise
+												How Onboarding Works
 											</p>
 										</li>
 										<li>
@@ -53,7 +53,7 @@ export default function Section2() {
 												<i className="icon-check-2" />
 											</div>
 											<p>
-												Key Strengths and Accomplishments
+												What You Can Expect
 											</p>
 										</li>
 										<li>
@@ -61,7 +61,7 @@ export default function Section2() {
 												<i className="icon-check-2" />
 											</div>
 											<p>
-												Skills and Career Highlights
+												Built for the Long Term
 											</p>
 										</li>
 									</ul>
@@ -76,12 +76,11 @@ export default function Section2() {
 											</span>
 										</div>
 										<Link href="/#" className="name-process font-main-2">
-											Discovery &amp; Research
+											Discovery & Assessment
 										</Link>
 									</div>
 									<p className="text">
-										We begin deep understanding your business, goal challenges
-										market research, competitor
+										We start by learning your business and auditing what you have — systems, security, backups, and the headaches slowing your team down.
 									</p>
 								</div>
 								<div className="wg-process mb-10 wow fadeInUp" data-wow-delay="0s">
@@ -92,11 +91,11 @@ export default function Section2() {
 											</span>
 										</div>
 										<Link href="/#" className="name-process font-main-2">
-											Strategy Development
+											Roadmap & Plan
 										</Link>
 									</div>
 									<p className="text">
-										Based on our research develop comprehensive best marketing strategy aligns with
+										We document what we found and lay out a clear roadmap — quick wins first, then the bigger moves — priced and explained in plain language.
 										objectives.
 									</p>
 								</div>
@@ -112,7 +111,7 @@ export default function Section2() {
 										</Link>
 									</div>
 									<p className="text">
-										Once the strategy is finalized, we move into action execute marketing campaigns
+										Deployment & Onboarding: we put monitoring, security, and backups in place and bring your team on smoothly, with little to no disruption.
 										across
 									</p>
 								</div>
@@ -124,12 +123,11 @@ export default function Section2() {
 											</span>
 										</div>
 										<Link href="/#" className="name-process font-main-2">
-											Monitoring Support
+											Monitoring & Improvement
 										</Link>
 									</div>
 									<p className="text">
-										We continuously monitor they
-										performance metrics, tracking KPIs such as engagement
+										We watch your systems around the clock, resolve issues before they spread, and meet with you regularly to keep IT aligned with your goals.
 									</p>
 								</div>
 							</div>

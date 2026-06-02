@@ -64,7 +64,7 @@ export default function Section12() {
 													</ul>
 												</div>
 												<Link href="/blog-details" className="title fw-7 mb-25">
-													The Leadership Development in Business Success
+													How Managed IT Keeps Upstate Businesses Running
 												</Link>
 												<p className="text mb-25">
 													Our investment philosophy is based on the balanced approach
@@ -110,7 +110,7 @@ export default function Section12() {
 													</ul>
 												</div>
 												<Link href="/blog-details" className="title fw-7 mb-25">
-													The Leadership Development
+													Managed IT That Just Works
 													in Business Success
 												</Link>
 												<p className="text mb-25">
@@ -157,7 +157,7 @@ export default function Section12() {
 													</ul>
 												</div>
 												<Link href="/blog-details" className="title fw-7 mb-25">
-													The Leadership Development in Business Success
+													How Managed IT Keeps Upstate Businesses Running
 												</Link>
 												<p className="text mb-25">
 													Our investment philosophy is based on the balanced approach
@@ -203,7 +203,7 @@ export default function Section12() {
 													</ul>
 												</div>
 												<Link href="/blog-details" className="title fw-7 mb-25">
-													The Leadership Development
+													Managed IT That Just Works
 													in Business Success
 												</Link>
 												<p className="text mb-25">
@@ -250,7 +250,7 @@ export default function Section12() {
 													</ul>
 												</div>
 												<Link href="/blog-details" className="title fw-7 mb-25">
-													The Leadership Development in Business Success
+													How Managed IT Keeps Upstate Businesses Running
 												</Link>
 												<p className="text mb-25">
 													Our investment philosophy is based on the balanced approach

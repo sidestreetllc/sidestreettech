@@ -57,7 +57,7 @@ export default function Section3() {
 								</div>
 							</div>
 							<h6 className="sub-counter">
-								Marketing Strategy
+								AI & Automation
 							</h6>
 						</div>
 					</div>

@@ -20,7 +20,7 @@ export default function Section6() {
 						<div className="marquee-item">
 							<div className="s2">
 								<p>
-									Become a Financial Advisors or join a Career?
+									Want IT that just works? Let's talk.
 									<Link href="/#">
 										Join Our Team
 									</Link>
@@ -40,7 +40,7 @@ export default function Section6() {
 						<div className="marquee-item">
 							<div className="s2">
 								<p>
-									Become a Financial Advisors or join a Career?
+									Want IT that just works? Let's talk.
 									<Link href="/#">
 										Join Our Team
 									</Link>
@@ -60,7 +60,7 @@ export default function Section6() {
 						<div className="marquee-item">
 							<div className="s2">
 								<p>
-									Become a Financial Advisors or join a Career?
+									Want IT that just works? Let's talk.
 									<Link href="/#">
 										Join Our Team
 									</Link>
@@ -80,7 +80,7 @@ export default function Section6() {
 						<div className="marquee-item">
 							<div className="s2">
 								<p>
-									Become a Financial Advisors or join a Career?
+									Want IT that just works? Let's talk.
 									<Link href="/#">
 										Join Our Team
 									</Link>
@@ -100,7 +100,7 @@ export default function Section6() {
 						<div className="marquee-item">
 							<div className="s2">
 								<p>
-									Become a Financial Advisors or join a Career?
+									Want IT that just works? Let's talk.
 									<Link href="/#">
 										Join Our Team
 									</Link>

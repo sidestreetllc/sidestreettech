@@ -35,13 +35,13 @@ export default function Section11() {
 								height="0"
 								sizes="100vw"
 								style={{ width: "100%", height: "auto" }}
-								className="img1" src="/images/partner/google.svg" alt="google" />
+								className="img1" src="/images/partner/google_workspace.svg" alt="Google Workspace" />
 							<Image
 								width="0"
 								height="0"
 								sizes="100vw"
 								style={{ width: "100%", height: "auto" }}
-								className="img2" src="/images/partner/google.svg" alt="google" />
+								className="img2" src="/images/partner/google_workspace.svg" alt="Google Workspace" />
 						</Link>
 					</SwiperSlide>
 					<SwiperSlide>
@@ -103,13 +103,13 @@ export default function Section11() {
 								height="0"
 								sizes="100vw"
 								style={{ width: "100%", height: "auto" }}
-								className="img1" src="/images/partner/backblaze.svg" alt="backblaze" />
+								className="img1" src="/images/partner/apple.svg" alt="apple" />
 							<Image
 								width="0"
 								height="0"
 								sizes="100vw"
 								style={{ width: "100%", height: "auto" }}
-								className="img2" src="/images/partner/backblaze.svg" alt="backblaze" />
+								className="img2" src="/images/partner/apple.svg" alt="apple" />
 						</Link>
 					</SwiperSlide>
 					<SwiperSlide>
@@ -137,13 +137,13 @@ export default function Section11() {
 								height="0"
 								sizes="100vw"
 								style={{ width: "100%", height: "auto" }}
-								className="img1" src="/images/partner/lenovo.svg" alt="lenovo" />
+								className="img1" src="/images/partner/google_cloud.svg" alt="Google Cloud" />
 							<Image
 								width="0"
 								height="0"
 								sizes="100vw"
 								style={{ width: "100%", height: "auto" }}
-								className="img2" src="/images/partner/lenovo.svg" alt="lenovo" />
+								className="img2" src="/images/partner/google_cloud.svg" alt="Google Cloud" />
 						</Link>
 					</SwiperSlide>
 					</div>

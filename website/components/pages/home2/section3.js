@@ -18,7 +18,7 @@ export default function Section3() {
 									services we provide
 								</p>
 								<p className="s-title text-white-yellow text-center text-anime-wave">
-									Leadership Development &amp; Executive <br />
+									Managed IT &amp; Cloud <br />
 									Coaching Market Expansion &amp; Growth <br />
 									Strategies
 									<span>
@@ -58,7 +58,7 @@ export default function Section3() {
 										<div className="card-service text-center tf-hover wow fadeInUp" data-wow-delay="0.1s">
 											<h5 className="title mb-10">
 												<Link href="/service-details">
-													Financial Advisory
+													Cloud & Microsoft 365
 												</Link>
 											</h5>
 											<p className="text mb-35">

@@ -36,23 +36,19 @@ export default function Section4() {
 										</h2>
 										<div id="collapseOne" className={isAccordion == 1 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent="#accordionExample">
 											<div className="accordion-body">
-												Our process typically starts with a discovery phase, where we assess
-												your business needs and goals, we develop a customized strategy,
-												followed by implementation and continuous monitoring.
+												Managed IT means we run your technology for a flat monthly fee — monitoring, patching, security, backups, and help desk — instead of you paying by the hour when something breaks. You get a whole team and predictable costs.
 											</div>
 										</div>
 									</div>
 									<div className="accordion-item">
 										<h2 className="accordion-header" onClick={() => handleAccordion(2)}>
 										<button className={isAccordion == 2 ? "accordion-button collapsed" : "accordion-button"} type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-												How does the managed IT process work?
+												How does onboarding work?
 											</button>
 										</h2>
 										<div id="collapseTwo" className={isAccordion == 2 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent="#accordionExample">
 											<div className="accordion-body">
-												Our process typically starts with a discovery phase, where we assess
-												your business needs and goals, we develop a customized strategy,
-												followed by implementation and continuous monitoring.
+												We start with a free assessment of your systems, security, and backups, lay out a clear roadmap, then deploy monitoring and security and bring your team on with little to no disruption.
 											</div>
 										</div>
 									</div>
@@ -64,23 +60,19 @@ export default function Section4() {
 										</h2>
 										<div id="collapseThree" className={isAccordion == 3 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent="#accordionExample">
 											<div className="accordion-body">
-												Our process typically starts with a discovery phase, where we assess
-												your business needs and goals, we develop a customized strategy,
-												followed by implementation and continuous monitoring.
+												Mostly Upstate organizations from 10 to 250 employees — manufacturers and their suppliers, professional services firms, healthcare and dental practices, and logistics companies along the I-85 corridor.
 											</div>
 										</div>
 									</div>
 									<div className="accordion-item ">
 										<h2 className="accordion-header" onClick={() => handleAccordion(4)}>
 										<button className={isAccordion == 4 ? "accordion-button collapsed last" : "accordion-button last"} type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-												How much do your managed IT services cost?
+												Do you provide cybersecurity and backups?
 											</button>
 										</h2>
 										<div id="collapseFour" className={isAccordion == 4 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent="#accordionExample">
 											<div className="accordion-body">
-												Our process typically starts with a discovery phase, where we assess
-												your business needs and goals, we develop a customized strategy,
-												followed by implementation and continuous monitoring.
+												Yes — security and monitored backups are built into every plan, including endpoint and email protection, MFA, patching, staff training, and a tested recovery plan.
 											</div>
 										</div>
 									</div>
