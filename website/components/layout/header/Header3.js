@@ -31,9 +31,9 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, handle
 											<div className="icon">
 												<i className="flaticon-phone-call" />
 											</div>
-											<Link href="tel:+18647750100" className="font-main">
+											<Link href="tel:+18645743811" className="font-main">
 												Call :
-												<span className="fw-6"> +1 (864) 775-0100 </span>
+												<span className="fw-6"> 864-574-3811 </span>
 											</Link>
 										</div>
 										<Link href="/#" className="tf-btn style-10 small type-2">
@@ -93,8 +93,8 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, handle
 													</li>
 													<li>
 														<p>
-															Call: <Link href="tel:+18647750100">
-																+1 (864) 775-0100
+															Call: <Link href="tel:+18645743811">
+																864-574-3811
 															</Link>
 														</p>
 													</li>

@@ -32,7 +32,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 												<i className="flaticon-phone-call" />
 											</div>
 											<p>
-												Call :<Link href="tel:+18647750100"> +1 (864) 775-0100
+												Call :<Link href="tel:+18645743811"> 864-574-3811
 												</Link>
 											</p>
 										</li>
@@ -119,7 +119,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 												<li>
 													<p>
 														Address: <Link href="https://www.google.com/maps?q=Spartanburg,SC" target="_blank">
-															Downtown Spartanburg, SC 29306
+															P.O. Box 644, Spartanburg, SC 29304
 														</Link>
 													</p>
 												</li>
@@ -132,8 +132,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 												</li>
 												<li>
 													<p>
-														Call: <Link href="tel:+18647750100">
-															+1 (864) 775-0100
+														Call: <Link href="tel:+18645743811">
+															864-574-3811
 														</Link>
 													</p>
 												</li>

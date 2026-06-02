@@ -140,8 +140,8 @@ export default function Header4({ scroll, isMobileMenu, handleMobileMenu, handle
 													</li>
 													<li>
 														<p>
-															Call: <Link href="tel:+18647750100">
-																+1 (864) 775-0100
+															Call: <Link href="tel:+18645743811">
+																864-574-3811
 															</Link>
 														</p>
 													</li>

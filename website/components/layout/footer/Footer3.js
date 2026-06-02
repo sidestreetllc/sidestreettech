@@ -117,7 +117,7 @@ export default function Footer3() {
 										<h5 className="footer-title footer-title-mobile" onClick={() => handleAccordion2(1)}>Contact Us</h5>
 										<p className="text tf-collapse-content" style={{ display: getDisplayStyle2(1) }}>
 											hello@sidestreet.tech <br />
-											+1 (864) 775-0100
+											864-574-3811
 										</p>
 									</div>
 								</div>

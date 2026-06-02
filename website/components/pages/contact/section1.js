@@ -33,8 +33,8 @@ export default function Section1() {
 									<span className="line" />
 									<ul className="contact-infor-list style-2">
 										<li>
-											<Link href="https://maps.google.com/?q=Spartanburg,SC" className="infor" target="_blank">
-												Downtown Spartanburg, SC 29306
+											<Link href="https://maps.google.com/?q=Spartanburg,SC+29304" className="infor" target="_blank">
+												P.O. Box 644, Spartanburg, SC 29304
 											</Link>
 										</li>
 										<li>
@@ -43,8 +43,8 @@ export default function Section1() {
 											</Link>
 										</li>
 										<li>
-											<Link href="tel:+18647750100" className="infor">
-												+1 (864) 775-0100
+											<Link href="tel:+18645743811" className="infor">
+												864-574-3811
 											</Link>
 										</li>
 									</ul>
@@ -82,8 +82,8 @@ export default function Section1() {
 											</Link>
 										</li>
 										<li>
-											<Link href="tel:+18647750100" className="infor">
-												+1 (864) 775-0100
+											<Link href="tel:+18645743811" className="infor">
+												864-574-3811
 											</Link>
 										</li>
 									</ul>
@@ -111,7 +111,7 @@ export default function Section1() {
 									<span className="line" />
 									<ul className="contact-infor-list style-2">
 										<li>
-											<Link href="https://maps.google.com/?q=Spartanburg,SC" className="infor" target="_blank">
+											<Link href="https://maps.google.com/?q=Spartanburg,SC+29304" className="infor" target="_blank">
 												Remote & on-site, Mon–Fri 8am–6pm
 											</Link>
 										</li>
@@ -121,8 +121,8 @@ export default function Section1() {
 											</Link>
 										</li>
 										<li>
-											<Link href="tel:+18647750100" className="infor">
-												+1 (864) 775-0100
+											<Link href="tel:+18645743811" className="infor">
+												864-574-3811
 											</Link>
 										</li>
 									</ul>

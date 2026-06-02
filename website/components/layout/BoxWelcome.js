@@ -27,8 +27,8 @@ export default function BoxWelcome({ handleWelcomeBox, isWelcomeBox }) {
 						<ul className="contact-list mb-20">
 							<li>
 								<p>
-									Address: <Link href="https://www.google.com/maps?q=55East10thStreet,NewYork,NY10003,UnitedStates" target="_blank">
-										55 East 10th Street, New York, NY 10003, United States
+									Address: <Link href="https://www.google.com/maps?q=Spartanburg,SC+29304" target="_blank">
+										P.O. Box 644, Spartanburg, SC 29304
 									</Link>
 								</p>
 							</li>
@@ -41,8 +41,8 @@ export default function BoxWelcome({ handleWelcomeBox, isWelcomeBox }) {
 							</li>
 							<li>
 								<p>
-									Call: <Link href="tel:+18647750100">
-										+1 (864) 775-0100
+									Call: <Link href="tel:+18645743811">
+										864-574-3811
 									</Link>
 								</p>
 							</li>

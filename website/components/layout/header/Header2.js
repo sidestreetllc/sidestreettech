@@ -22,7 +22,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, handle
 											<div className="icon">
 												<i className="flaticon-phone-call" />
 											</div>
-											<Link href="tel:+18647750100"> Phone No : +1 (864) 775-0100 </Link>
+											<Link href="tel:+18645743811"> Phone No : 864-574-3811 </Link>
 										</li>
 									</ul>
 								</div>
@@ -130,8 +130,8 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, handle
 												</li>
 												<li>
 													<p>
-														Call: <Link href="tel:+18647750100">
-															+1 (864) 775-0100
+														Call: <Link href="tel:+18645743811">
+															864-574-3811
 														</Link>
 													</p>
 												</li>

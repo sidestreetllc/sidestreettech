@@ -30,7 +30,7 @@ export default function Section5() {
 											<p className="cap">Contact Us</p>
 											<p className="infor">
 												hello@sidestreet.tech
-												+1 (864) 775-0100
+												864-574-3811
 											</p>
 										</li>
 									</ul>

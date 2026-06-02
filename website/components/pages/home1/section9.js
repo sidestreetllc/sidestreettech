@@ -20,17 +20,17 @@ export default function Section9() {
 									</p>
 									<ul className="list ">
 										<li className="wow fadeInUp" data-wow-delay="0s">
-											<p className="cap">Address Business</p>
+											<p className="cap">Mailing Address</p>
 											<p className="infor">
-												55 East 10th Street, New York, <br />
-												NY 10003, United States
+												P.O. Box 644, <br />
+												Spartanburg, SC 29304
 											</p>
 										</li>
 										<li className="wow fadeInUp" data-wow-delay="0.2s">
 											<p className="cap">Contact Us</p>
 											<p className="infor">
 												hello@sidestreet.tech <br />
-												+1 (864) 775-0100
+												864-574-3811
 											</p>
 										</li>
 									</ul>

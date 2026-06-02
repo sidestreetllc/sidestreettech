@@ -46,8 +46,8 @@ export default function Section1() {
 										<p className="caption">
 											Need a Call
 										</p>
-										<Link href="tel:+18647750100" className="infor">
-											+1 (864) 775-0100
+										<Link href="tel:+18645743811" className="infor">
+											864-574-3811
 										</Link>
 									</li>
 									<li className="wow fadeInUp" data-wow-delay="0s">

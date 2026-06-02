@@ -22,15 +22,15 @@ export default function Section6() {
 										<li className="wow fadeInUp" data-wow-delay="0s">
 											<p className="cap">Address Business</p>
 											<p className="infor">
-												55 East 10th Street, New York,
-												NY 10003, United States
+												P.O. Box 644,
+												Spartanburg, SC 29304
 											</p>
 										</li>
 										<li className="wow fadeInUp" data-wow-delay="0.1s">
 											<p className="cap">Contact Us</p>
 											<p className="infor">
 												hello@sidestreet.tech
-												+1 (864) 775-0100
+												864-574-3811
 											</p>
 										</li>
 									</ul>
