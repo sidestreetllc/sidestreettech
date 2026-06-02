@@ -22,10 +22,10 @@ export default function Section1() {
 									</div>
 								</div>
 								<p className="entry-name font-main-2 fw-7 text-anime-style-2">
-									Samuel D. Fletcher
+									Joshua Kuhn
 								</p>
 								<p className="entry-duty wow fadeInUp" data-wow-delay="0s">
-									Systems Engineer
+									Founder & Principal
 								</p>
 								<span className="line" />
 								<h5 className="title-profile">

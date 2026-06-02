@@ -40,7 +40,7 @@ export default function Section2() {
 										<div className="box-cta style-2 wow fadeInUp" data-wow-delay="0s">
 											<p className="caption font-main-2 ">Become a Team Member?</p>
 											<p className="mb-20">We are always looking for talented Member</p>
-											<Link href="/team-member" className="tf-btn small">
+											<Link href="/contact" className="tf-btn small">
 												Get Started
 												<i className="icon-chevron-right" />
 											</Link>
@@ -50,7 +50,7 @@ export default function Section2() {
 										<div className="box-cta style-2 wow fadeInUp" data-wow-delay="0.1s">
 											<p className="caption font-main-2">Need Quality Consultations?</p>
 											<p className="mb-20">We are always looking for talented Member</p>
-											<Link href="/team-member" className="tf-btn small">
+											<Link href="/contact" className="tf-btn small">
 												Get Consultation
 												<i className="icon-chevron-right" />
 											</Link>

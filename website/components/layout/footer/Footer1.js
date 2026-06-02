@@ -62,7 +62,7 @@ export default function Footer1() {
 											<div className="box-cta wow fadeInUp" data-wow-delay="0s">
 												<p className="caption font-main-2 ">Need Reliable IT Support?</p>
 												<p className="mb-20">Talk to a local Upstate SC team that knows your stack</p>
-												<Link href="/team-member" className="tf-btn style-10 small">
+												<Link href="/contact" className="tf-btn style-10 small">
 													Get Started
 													<i className="icon-chevron-right" />
 												</Link>
@@ -72,7 +72,7 @@ export default function Footer1() {
 											<div className="box-cta wow fadeInUp" data-wow-delay="0.1s">
 												<p className="caption font-main-2">Thinking About the Cloud?</p>
 												<p className="mb-20">Talk to a local Upstate SC team that knows your stack</p>
-												<Link href="/team-member" className="tf-btn style-10 small">
+												<Link href="/contact" className="tf-btn style-10 small">
 													Get Consultation
 													<i className="icon-chevron-right" />
 												</Link>

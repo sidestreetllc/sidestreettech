@@ -11,352 +11,63 @@ export default function Section2() {
 							<div className="heading mb-70">
 								<p className="s-sub-title mb-18 justify-center">
 									<i className="icon-angles-right moveLeftToRight" />
-									Meet out team
+									who you work with
 								</p>
 								<p className="s-title text-center letter-space-0 text-anime-style-2">
-									Meet Our Expert
+									Senior-Led,
 									<span>
-										Team Member
+										No Handoffs
 									</span>
 								</p>
 							</div>
-							<div className="container-loadmore">
-								<div className="grid-layout-3 ">
-									<div className="card-member style-2 tf-hover ">
-										<div className="image hover-14 hover-1">
-											<Image
-												width="0"
-												height="0"
-												sizes="100vw"
-												style={{ width: "100%", height: "auto" }}
-												src="/images/avatar/team-member-1.jpg" data-src="/images/avatar/team-member-1.jpg" alt="" className="lazyload" />
-										</div>
-										<div className="content">
-											<Link href="/team-details" className="name"> Joshua Kuhn </Link>
-											<p className="duty">Founder & Principal</p>
-											<ul className="social-list style-4">
-												<li>
-													<Link href="/#">
-														<i className="icon-facebook" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-twitter" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-linkedin" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-youtube" />
-													</Link>
-												</li>
-											</ul>
-										</div>
-									</div>
-									<div className="card-member style-2 tf-hover ">
-										<div className="image hover-14 hover-1">
-											<Image
-												width="0"
-												height="0"
-												sizes="100vw"
-												style={{ width: "100%", height: "auto" }}
-												src="/images/avatar/team-member-2.jpg" data-src="/images/avatar/team-member-2.jpg" alt="" className="lazyload" />
-										</div>
-										<div className="content">
-											<Link href="/team-details" className="name"> Senior Engineer </Link>
-											<p className="duty">Systems Engineer</p>
-											<ul className="social-list style-4">
-												<li>
-													<Link href="/#">
-														<i className="icon-facebook" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-twitter" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-linkedin" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-youtube" />
-													</Link>
-												</li>
-											</ul>
-										</div>
-									</div>
-									<div className="card-member style-2 tf-hover ">
-										<div className="image hover-14 hover-1">
-											<Image
-												width="0"
-												height="0"
-												sizes="100vw"
-												style={{ width: "100%", height: "auto" }}
-												src="/images/avatar/team-member-3.jpg" data-src="/images/avatar/team-member-3.jpg" alt="" className="lazyload" />
-										</div>
-										<div className="content">
-											<Link href="/team-details" className="name"> Cloud & Security Lead </Link>
-											<p className="duty">Systems Engineer</p>
-											<ul className="social-list style-4">
-												<li>
-													<Link href="/#">
-														<i className="icon-facebook" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-twitter" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-linkedin" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-youtube" />
-													</Link>
-												</li>
-											</ul>
-										</div>
-									</div>
-									<div className="card-member style-2 tf-hover ">
-										<div className="image hover-14 hover-1">
-											<Image
-												width="0"
-												height="0"
-												sizes="100vw"
-												style={{ width: "100%", height: "auto" }}
-												src="/images/avatar/team-member-4.jpg" data-src="/images/avatar/team-member-4.jpg" alt="" className="lazyload" />
-										</div>
-										<div className="content">
-											<Link href="/team-details" className="name"> Help Desk Engineer </Link>
-											<p className="duty">Systems Engineer</p>
-											<ul className="social-list style-4">
-												<li>
-													<Link href="/#">
-														<i className="icon-facebook" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-twitter" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-linkedin" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-youtube" />
-													</Link>
-												</li>
-											</ul>
-										</div>
-									</div>
-									<div className="card-member style-2 tf-hover ">
-										<div className="image hover-14 hover-1">
-											<Image
-												width="0"
-												height="0"
-												sizes="100vw"
-												style={{ width: "100%", height: "auto" }}
-												src="/images/avatar/team-member-5.jpg" data-src="/images/avatar/team-member-5.jpg" alt="" className="lazyload" />
-										</div>
-										<div className="content">
-											<Link href="/team-details" className="name"> Network Engineer </Link>
-											<p className="duty">Systems Engineer</p>
-											<ul className="social-list style-4">
-												<li>
-													<Link href="/#">
-														<i className="icon-facebook" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-twitter" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-linkedin" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-youtube" />
-													</Link>
-												</li>
-											</ul>
-										</div>
-									</div>
-									<div className="card-member style-2 tf-hover ">
-										<div className="image hover-14 hover-1">
-											<Image
-												width="0"
-												height="0"
-												sizes="100vw"
-												style={{ width: "100%", height: "auto" }}
-												src="/images/avatar/team-member-6.jpg" data-src="/images/avatar/team-member-6.jpg" alt="" className="lazyload" />
-										</div>
-										<div className="content">
-											<Link href="/team-details" className="name"> Backup & Recovery Specialist </Link>
-											<p className="duty">Systems Engineer</p>
-											<ul className="social-list style-4">
-												<li>
-													<Link href="/#">
-														<i className="icon-facebook" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-twitter" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-linkedin" />
-													</Link>
-												</li>
-												<li>
-													<Link href="/#">
-														<i className="icon-youtube" />
-													</Link>
-												</li>
-											</ul>
-										</div>
-									</div>
+						</div>
+					</div>
+					<div className="row align-items-center">
+						<div className="col-lg-4">
+							<div className="card-member style-2 tf-hover">
+								<div className="image hover-14 hover-1">
+									<Image
+										width="0"
+										height="0"
+										sizes="100vw"
+										style={{ width: "100%", height: "auto" }}
+										src="/images/avatar/team-member-1.jpg" data-src="/images/avatar/team-member-1.jpg" alt="Joshua Kuhn, Founder and Principal" className="lazyload" />
 								</div>
-								<div className="item hidden mt-30">
-									<div className="grid-layout-3 ">
-										<div className="card-member style-2 tf-hover">
-											<div className="image hover-14 hover-1">
-												<Image
-													width="0"
-													height="0"
-													sizes="100vw"
-													style={{ width: "100%", height: "auto" }}
-													src="/images/avatar/team-member-1.jpg" data-src="/images/avatar/team-member-1.jpg" alt="" className="lazyload" />
-											</div>
-											<div className="content">
-												<Link href="/team-details" className="name"> Joshua Kuhn </Link>
-												<p className="duty">Systems Engineer</p>
-												<ul className="social-list style-4">
-													<li>
-														<Link href="/#">
-															<i className="icon-facebook" />
-														</Link>
-													</li>
-													<li>
-														<Link href="/#">
-															<i className="icon-twitter" />
-														</Link>
-													</li>
-													<li>
-														<Link href="/#">
-															<i className="icon-linkedin" />
-														</Link>
-													</li>
-													<li>
-														<Link href="/#">
-															<i className="icon-youtube" />
-														</Link>
-													</li>
-												</ul>
-											</div>
-										</div>
-										<div className="card-member style-2 tf-hover">
-											<div className="image hover-14 hover-1">
-												<Image
-													width="0"
-													height="0"
-													sizes="100vw"
-													style={{ width: "100%", height: "auto" }}
-													src="/images/avatar/team-member-2.jpg" data-src="/images/avatar/team-member-2.jpg" alt="" className="lazyload" />
-											</div>
-											<div className="content">
-												<Link href="/team-details" className="name"> Senior Engineer </Link>
-												<p className="duty">Systems Engineer</p>
-												<ul className="social-list style-4">
-													<li>
-														<Link href="/#">
-															<i className="icon-facebook" />
-														</Link>
-													</li>
-													<li>
-														<Link href="/#">
-															<i className="icon-twitter" />
-														</Link>
-													</li>
-													<li>
-														<Link href="/#">
-															<i className="icon-linkedin" />
-														</Link>
-													</li>
-													<li>
-														<Link href="/#">
-															<i className="icon-youtube" />
-														</Link>
-													</li>
-												</ul>
-											</div>
-										</div>
-										<div className="card-member style-2 tf-hover">
-											<div className="image hover-14 hover-1">
-												<Image
-													width="0"
-													height="0"
-													sizes="100vw"
-													style={{ width: "100%", height: "auto" }}
-													src="/images/avatar/team-member-3.jpg" data-src="/images/avatar/team-member-3.jpg" alt="" className="lazyload" />
-											</div>
-											<div className="content">
-												<Link href="/team-details" className="name"> Cloud & Security Lead </Link>
-												<p className="duty">Systems Engineer</p>
-												<ul className="social-list style-4">
-													<li>
-														<Link href="/#">
-															<i className="icon-facebook" />
-														</Link>
-													</li>
-													<li>
-														<Link href="/#">
-															<i className="icon-twitter" />
-														</Link>
-													</li>
-													<li>
-														<Link href="/#">
-															<i className="icon-linkedin" />
-														</Link>
-													</li>
-													<li>
-														<Link href="/#">
-															<i className="icon-youtube" />
-														</Link>
-													</li>
-												</ul>
-											</div>
-										</div>
-									</div>
+								<div className="content">
+									<span className="name"> Joshua Kuhn </span>
+									<p className="duty">Founder &amp; Principal</p>
+									<ul className="social-list style-4">
+										<li>
+											<Link href="https://www.linkedin.com/company/sidestreet-media" target="_blank">
+												<i className="icon-linkedin" />
+											</Link>
+										</li>
+									</ul>
 								</div>
-								<div className="bottom flex justify-center">
-									<Link href="#" className="tf-btn style-4 btn-loadMore">
-										View All Member
-										<i className="icon-chevron-right" />
-									</Link>
-								</div>
+							</div>
+						</div>
+						<div className="col-lg-7 offset-lg-1">
+							<div className="content">
+								<p className="text mb-30">
+									Joshua Kuhn founded Sidestreet in 2010 &mdash; first as 5thPixel Media in New Orleans,
+									then Sidestreet NOLA, and finally Sidestreet after relocating to Spartanburg in 2013.
+									More than fifteen years later, he still runs point on every client account.
+								</p>
+								<p className="text mb-30">
+									His background is broadcast journalism and media production, with work that included
+									NBC News, ESPN, and regional television across the South. That discipline shows up in how
+									Sidestreet Technology approaches every project: precision, deadline awareness, and a
+									commitment to getting it right the first time.
+								</p>
+								<p className="text mb-40">
+									The approach is direct: no bait-and-switch on who&rsquo;s in the room, no handoff to
+									junior staff, no mystery about what you&rsquo;re paying for. The person you meet is the
+									person who does the work.
+								</p>
+								<Link href="/contact" className="tf-btn">
+									Work With Joshua
+									<i className="icon-chevron-right" />
+								</Link>
 							</div>
 						</div>
 					</div>

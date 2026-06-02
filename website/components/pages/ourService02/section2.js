@@ -20,9 +20,9 @@ export default function Section2() {
 						<div className="marquee-item">
 							<div className="s2">
 								<p>
-									Become a Financial Advisors or join a Career?
-									<Link href="/team-member">
-										Join Our Team
+									Want to put your full tech stack on one local partner?
+									<Link href="/contact">
+										Get in Touch
 									</Link>
 								</p>
 							</div>
@@ -40,9 +40,9 @@ export default function Section2() {
 						<div className="marquee-item">
 							<div className="s2">
 								<p>
-									Become a Financial Advisors or join a Career?
+									Want to put your full tech stack on one local partner?
 									<Link href="/#">
-										Join Our Team
+										Get in Touch
 									</Link>
 								</p>
 							</div>
@@ -60,9 +60,9 @@ export default function Section2() {
 						<div className="marquee-item">
 							<div className="s2">
 								<p>
-									Become a Financial Advisors or join a Career?
+									Want to put your full tech stack on one local partner?
 									<Link href="/#">
-										Join Our Team
+										Get in Touch
 									</Link>
 								</p>
 							</div>
@@ -80,9 +80,9 @@ export default function Section2() {
 						<div className="marquee-item">
 							<div className="s2">
 								<p>
-									Become a Financial Advisors or join a Career?
+									Want to put your full tech stack on one local partner?
 									<Link href="/#">
-										Join Our Team
+										Get in Touch
 									</Link>
 								</p>
 							</div>
@@ -100,9 +100,9 @@ export default function Section2() {
 						<div className="marquee-item">
 							<div className="s2">
 								<p>
-									Become a Financial Advisors or join a Career?
+									Want to put your full tech stack on one local partner?
 									<Link href="/#">
-										Join Our Team
+										Get in Touch
 									</Link>
 								</p>
 							</div>

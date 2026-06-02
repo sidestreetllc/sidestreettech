@@ -1,4 +1,5 @@
-
+'use client'
+import HubspotForm from "@/components/elements/HubspotForm"
 export default function Section9() {
 	return (
 		<>
@@ -39,33 +40,7 @@ export default function Section9() {
 									<p className="title mb-30 text-center font-main-2">
 										Request a Free Assessment
 									</p>
-									<form action="#" className="form-contact style-3">
-										<div className="cols mb-20">
-											<fieldset>
-												<input type="text" placeholder="Full Name" required />
-											</fieldset>
-											<fieldset>
-												<input type="text" placeholder="Phone" required />
-											</fieldset>
-										</div>
-										<div className="cols mb-20">
-											<fieldset>
-												<input type="email" placeholder="Email" required />
-											</fieldset>
-											<fieldset>
-												<input type="text" placeholder="Subject" required />
-											</fieldset>
-										</div>
-										<div className="cols mb-20">
-											<fieldset>
-												<textarea className="h-100px" placeholder="Write message" />
-											</fieldset>
-										</div>
-										<button type="submit" className="tf-btn full">
-											Get Consultation
-											<i className="icon-chevron-right" />
-										</button>
-									</form>
+									<HubspotForm />
 								</div>
 							</div>
 						</div>

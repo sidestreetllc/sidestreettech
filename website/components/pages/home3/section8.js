@@ -67,8 +67,8 @@ export default function Section8() {
 														</Link>
 													</li>
 												</ul>
-												<Link href="/team-details" className="name"> Johnny S. Patterson </Link>
-												<p className="duty">Systems Engineer</p>
+												<Link href="/team-details" className="name"> Joshua Kuhn </Link>
+												<p className="duty">Founder & Principal</p>
 											</div>
 										</div>
 									</SwiperSlide>
@@ -108,8 +108,8 @@ export default function Section8() {
 														</Link>
 													</li>
 												</ul>
-												<Link href="/team-details" className="name"> Andrew L. Lindsay </Link>
-												<p className="duty">Finance Engineer</p>
+												<Link href="/team-details" className="name"> Sidestreet Engineer </Link>
+												<p className="duty">Managed IT</p>
 											</div>
 										</div>
 									</SwiperSlide>
@@ -149,8 +149,8 @@ export default function Section8() {
 														</Link>
 													</li>
 												</ul>
-												<Link href="/team-details" className="name"> Donald G. Carson </Link>
-												<p className="duty">Insurance Engineer</p>
+												<Link href="/team-details" className="name"> Sidestreet Engineer </Link>
+												<p className="duty">Cloud & Security</p>
 											</div>
 										</div>
 									</SwiperSlide>
@@ -190,8 +190,8 @@ export default function Section8() {
 														</Link>
 													</li>
 												</ul>
-												<Link href="/team-details" className="name"> Chad V. Thompson </Link>
-												<p className="duty">TAX Engineer</p>
+												<Link href="/team-details" className="name"> Sidestreet Engineer </Link>
+												<p className="duty">AI Integration</p>
 											</div>
 										</div>
 									</SwiperSlide>

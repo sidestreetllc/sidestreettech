@@ -171,11 +171,8 @@ export default function Footer3() {
 									<i className="icon-arrow-top fs-8" />
 								</Link>
 								<p className="no-copy style-2">
-									Copyright © {new Date().getFullYear()} <span> Sidestreet Technology </span> by
-									<Link href="https://themeforest.net/user/themesflat" target="_blank">
-										Themesflat
-									</Link>
-									, All Rights Reserved.
+									Copyright © {new Date().getFullYear()} <span> Sidestreet Operations South Carolina LLC </span>.
+									Sidestreet® is a registered trademark, All Rights Reserved.
 								</p>
 								<div className="policy-list">
 									<ul className="list">

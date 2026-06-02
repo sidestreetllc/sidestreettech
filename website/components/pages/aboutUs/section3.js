@@ -1,8 +1,6 @@
 'use client'
-import { sliderTeam } from "@/utils/swiperOptions"
 import Image from 'next/image'
 import Link from 'next/link'
-import { Swiper, SwiperSlide } from "swiper/react"
 export default function Section3() {
 	return (
 		<>
@@ -75,7 +73,7 @@ export default function Section3() {
 										Led by <span> Joshua Kuhn </span>
 									</p>
 								</div>
-								<Link href="/team-member" className="tf-btn style-3 text-anime-style-1">
+								<Link href="/contact" className="tf-btn style-3 text-anime-style-1">
 									Work With Joshua
 									<i className="icon-chevron-right" />
 								</Link>
@@ -83,9 +81,9 @@ export default function Section3() {
 						</div>
 					</div>
 				</div>
-				<Swiper {...sliderTeam} className="swiper-container slider-team">
-					<div className="swiper-wrapper">
-						<SwiperSlide>
+				<div className="tf-container">
+					<div className="row">
+						<div className="col-lg-4">
 							<div className="card-member first tf-hover">
 								<div className="image hover-14 hover-1">
 									<Image
@@ -93,153 +91,42 @@ export default function Section3() {
 										height="0"
 										sizes="100vw"
 										style={{ width: "100%", height: "auto" }}
-										src="/images/avatar/team-member-1.jpg" data-src="/images/avatar/team-member-1.jpg" alt="" className="lazyload" />
+										src="/images/avatar/team-member-1.jpg" data-src="/images/avatar/team-member-1.jpg" alt="Joshua Kuhn, Founder and Principal" className="lazyload" />
 								</div>
 								<div className="content">
-									<Link href="/team-details" className="name"> Joshua Kuhn </Link>
-									<p className="duty">Founder & Principal</p>
+									<span className="name"> Joshua Kuhn </span>
+									<p className="duty">Founder &amp; Principal</p>
 									<ul className="social-list style-5 style-4">
 										<li>
-											<Link href="/#">
-												<i className="icon-facebook" />
-											</Link>
-										</li>
-										<li>
-											<Link href="/#">
-												<i className="icon-twitter" />
-											</Link>
-										</li>
-										<li>
-											<Link href="/#">
+											<Link href="https://www.linkedin.com/company/sidestreet-media" target="_blank">
 												<i className="icon-linkedin" />
-											</Link>
-										</li>
-										<li>
-											<Link href="/#">
-												<i className="icon-youtube" />
 											</Link>
 										</li>
 									</ul>
 								</div>
 							</div>
-						</SwiperSlide>
-						<SwiperSlide>
-							<div className="card-member  tf-hover">
-								<div className="image hover-14 hover-1">
-									<Image
-										width="0"
-										height="0"
-										sizes="100vw"
-										style={{ width: "100%", height: "auto" }}
-										src="/images/avatar/team-member-2.jpg" data-src="/images/avatar/team-member-2.jpg" alt="" className="lazyload" />
-								</div>
-								<div className="content">
-									<Link href="/team-details" className="name"> Senior Engineer </Link>
-									<p className="duty">Systems Engineer</p>
-									<ul className="social-list style-5 style-4">
-										<li>
-											<Link href="/#">
-												<i className="icon-facebook" />
-											</Link>
-										</li>
-										<li>
-											<Link href="/#">
-												<i className="icon-twitter" />
-											</Link>
-										</li>
-										<li>
-											<Link href="/#">
-												<i className="icon-linkedin" />
-											</Link>
-										</li>
-										<li>
-											<Link href="/#">
-												<i className="icon-youtube" />
-											</Link>
-										</li>
-									</ul>
-								</div>
+						</div>
+						<div className="col-lg-7 offset-lg-1">
+							<div className="content h-100 flex flex-column justify-center">
+								<p className="text mb-30">
+									Joshua founded Sidestreet in 2010 &mdash; first as 5thPixel Media in New Orleans, then
+									Sidestreet NOLA, and finally Sidestreet after relocating to Spartanburg in 2013. More than
+									fifteen years later, he still runs point on every client account.
+								</p>
+								<p className="text mb-30">
+									His background is broadcast journalism and media production, with work that included
+									NBC News, ESPN, and regional television across the South. That discipline shows up in how
+									Sidestreet Technology approaches every project: precision, deadline awareness, and getting
+									it right the first time.
+								</p>
+								<p className="text">
+									No bait-and-switch on who&rsquo;s in the room, no handoff to junior staff, no mystery about
+									what you&rsquo;re paying for. The person you meet is the person who does the work.
+								</p>
 							</div>
-						</SwiperSlide>
-						<SwiperSlide>
-							<div className="card-member  tf-hover">
-								<div className="image hover-14 hover-1">
-									<Image
-										width="0"
-										height="0"
-										sizes="100vw"
-										style={{ width: "100%", height: "auto" }}
-										src="/images/avatar/team-member-3.jpg" data-src="/images/avatar/team-member-3.jpg" alt="" className="lazyload" />
-								</div>
-								<div className="content">
-									<Link href="/team-details" className="name"> Cloud & Security Lead </Link>
-									<p className="duty">Systems Engineer</p>
-									<ul className="social-list style-5 style-4">
-										<li>
-											<Link href="/#">
-												<i className="icon-facebook" />
-											</Link>
-										</li>
-										<li>
-											<Link href="/#">
-												<i className="icon-twitter" />
-											</Link>
-										</li>
-										<li>
-											<Link href="/#">
-												<i className="icon-linkedin" />
-											</Link>
-										</li>
-										<li>
-											<Link href="/#">
-												<i className="icon-youtube" />
-											</Link>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</SwiperSlide>
-						<SwiperSlide>
-							<div className="card-member last tf-hover">
-								<div className="image hover-14 hover-1">
-									<Image
-										width="0"
-										height="0"
-										sizes="100vw"
-										style={{ width: "100%", height: "auto" }}
-										src="/images/avatar/team-member-4.jpg" data-src="/images/avatar/team-member-4.jpg" alt="" className="lazyload" />
-								</div>
-								<div className="content">
-									<Link href="/team-details" className="name"> AI Solutions Engineer </Link>
-									<p className="duty">Systems Engineer</p>
-									<ul className="social-list style-5 style-4">
-										<li>
-											<Link href="/#">
-												<i className="icon-facebook" />
-											</Link>
-										</li>
-										<li>
-											<Link href="/#">
-												<i className="icon-twitter" />
-											</Link>
-										</li>
-										<li>
-											<Link href="/#">
-												<i className="icon-linkedin" />
-											</Link>
-										</li>
-										<li>
-											<Link href="/#">
-												<i className="icon-youtube" />
-											</Link>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</SwiperSlide>
+						</div>
 					</div>
-					<div className="tf-overlay" />
-				</Swiper>
+				</div>
 			</section>
 
 		</>

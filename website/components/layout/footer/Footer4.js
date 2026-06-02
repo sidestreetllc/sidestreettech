@@ -169,7 +169,7 @@ export default function Footer4() {
 												<Link href="/career">Need a Career?</Link>
 											</li>
 											<li>
-												<Link href="/team-member">Meet Our Team</Link>
+												<Link href="/about-us">Meet Joshua</Link>
 											</li>
 											<li>
 												<Link href="/faqs">Clients Feedback</Link>
@@ -235,11 +235,8 @@ export default function Footer4() {
 						<div className="row">
 							<div className="col-12">
 								<p className="no-copy">
-									Copyright © {new Date().getFullYear()} <span> Sidestreet Technology </span> by
-									<Link href="https://themeforest.net/user/themesflat" target="_blank">
-										Themesflat
-									</Link>
-									, All Rights Reserved.
+									Copyright © {new Date().getFullYear()} <span> Sidestreet Operations South Carolina LLC </span>.
+									Sidestreet® is a registered trademark, All Rights Reserved.
 								</p>
 							</div>
 						</div>

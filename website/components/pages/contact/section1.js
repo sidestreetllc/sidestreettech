@@ -27,8 +27,7 @@ export default function Section1() {
 										</Link>
 									</h3>
 									<p className="sub">
-										Our team is ready to assist you every <br />
-										step of the way ensuring
+										Local engineers based in the Upstate, ready when you need us
 									</p>
 									<span className="line" />
 									<ul className="contact-infor-list style-2">
@@ -66,8 +65,7 @@ export default function Section1() {
 										</Link>
 									</h3>
 									<p className="sub">
-										Our team is ready to assist you every <br />
-										step of the way ensuring
+										Remote and on-site across Greenville, Spartanburg, and the I-85 corridor
 									</p>
 									<span className="line" />
 									<ul className="contact-infor-list style-2">
@@ -105,8 +103,7 @@ export default function Section1() {
 										</Link>
 									</h3>
 									<p className="sub">
-										Our team is ready to assist you every <br />
-										step of the way ensuring
+										Real people on the phone during business hours, monitoring around the clock
 									</p>
 									<span className="line" />
 									<ul className="contact-infor-list style-2">

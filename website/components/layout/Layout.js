@@ -80,7 +80,7 @@ export default function Layout({ headerStyle, footerStyle, breadcrumbTitle, chil
 					{children}
 				</div>
 
-				{!footerStyle && < Footer4 />}
+				{!footerStyle && < Footer1 />}
 				{footerStyle == 1 ? < Footer1 /> : null}
 				{footerStyle == 2 ? < Footer2 /> : null}
 				{footerStyle == 3 ? < Footer3 /> : null}
