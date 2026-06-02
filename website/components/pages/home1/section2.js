@@ -16,10 +16,9 @@ export default function Section2() {
 										about sidestreet
 									</p>
 									<p className="s-title mb-60 text-anime-wave-right text-clamp-4">
-										We Work For Building a Brighter Future Together
-										and <span>
-											Grow Business
-										</span>Link
+										Modern IT for Upstate Businesses That Want to <span>
+											Move Faster
+										</span>
 									</p>
 									<ul className="list mb-50">
 										<li>
@@ -27,9 +26,9 @@ export default function Section2() {
 												Company Mission
 											</p>
 											<p className="text">
-												We provide expert managed IT services designed help businesses
-												thrive in
-												today’s dynamic marketplace team experienced
+												We help businesses of all sizes run on modern, cloud-first
+												infrastructure — backed by a local team that picks up the
+												phone and knows your environment.
 											</p>
 										</li>
 										<li>
@@ -37,10 +36,9 @@ export default function Section2() {
 												Company Vision
 											</p>
 											<p className="text">
-												To be the trusted partner that empowers businesses worldwide to
-												unlock
-												their
-												full potential, driving sustainable growth
+												To be the most trusted technology partner in Upstate South
+												Carolina — making enterprise-grade IT and AI accessible to
+												every business we serve.
 											</p>
 										</li>
 									</ul>

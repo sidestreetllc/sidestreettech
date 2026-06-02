@@ -95,3 +95,12 @@ npm run build      # produces the ./out folder
   Point them at a form service (Formspree, Basin, or an API Gateway + Lambda), or embed your
   HubSpot form, since the sister company already uses HubSpot.
 - Swap the role-placeholder team cards for real hires (or trim to just Joshua).
+
+## Image licensing
+
+The photographs used as section/hero/blog/case imagery are sourced from Unsplash and are used
+under the Unsplash License (free for commercial and non-commercial use, no attribution required).
+See https://unsplash.com/license. They are stock placeholders chosen to fit the brand — replace
+with real Sidestreet photography (office, team, local clients) when available. The founder photo
+slot (images/avatar/team-member-1.jpg) is a stock stand-in and should be swapped for a real photo
+of Joshua before launch.
