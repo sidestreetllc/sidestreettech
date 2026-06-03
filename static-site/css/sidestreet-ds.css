@@ -1,0 +1,98 @@
+/* ============================================================
+   Sidestreet Technology — Design System (Rayo template override)
+   Outfit typeface · black/white + soft gray · one slate-blue accent
+   Loaded LAST, after main.css.
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root,
+:root[data-theme],
+[data-theme="light"],
+[data-theme="dark"] {
+  /* One typeface does everything */
+  --_font-default: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+  --_font-accent: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* The only color — slate blue — replaces the template purple/lime */
+  --accent: #1F5F89;
+  --accent-rgb: 31, 95, 137;
+  --accent--light: #1F5F89;
+  --accent-rgb--light: 31, 95, 137;
+  --accent--dark: #1F5F89;
+  --accent-rgb--dark: 31, 95, 137;
+
+  /* Brand tokens */
+  --ss-ink: #000000;
+  --ss-paper: #ffffff;
+  --ss-soft: #f2f2f2;
+  --ss-body: rgba(0, 0, 0, 0.5);
+  --ss-hairline: rgba(0, 0, 0, 0.1);
+  --ss-hairline-invert: rgba(255, 255, 255, 0.1);
+  --ss-ease: cubic-bezier(0, 0, 0.3642, 1);
+}
+
+/* ---------- Typeface ---------- */
+body, button, input, select, textarea,
+h1, h2, h3, h4, h5, h6, p, a, li, span, div, .btn, .btn-caption {
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
+body { font-weight: 300; }
+p, li, .t-large, .menu-promo__caption { font-weight: 300; }
+
+/* Headlines: Medium 500, never 700+ */
+h1, h2, h3, h4, h5, h6,
+.hero-03-headline__title,
+.mxd-section-title,
+.reveal-type,
+.mxd-cpb-list__title,
+.t-bright {
+  font-weight: 500 !important;
+  letter-spacing: -0.01em;
+}
+
+/* The signature move: hairline weight 100 for the secondary phrase */
+.ss-thin, .t-thin, .hero-03-headline__caption .thin { font-weight: 100 !important; }
+
+/* Eyebrows / captions */
+.mxd-section__caption,
+.mxd-promo__caption,
+.section-caption,
+.hero-03-headline__caption {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 500 !important;
+  font-size: 12px;
+}
+
+/* ---------- Accent used sparingly as a pointer ---------- */
+.accent-color, .text-accent, a:hover .btn-caption { color: var(--accent) !important; }
+
+/* ---------- Shape: square cards, pill buttons ---------- */
+.mxd-cpb-list__item, .mxd-card, .mxd-pricing__item,
+.mxd-block, .mxd-works__item, .card {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+.btn, .btn-default, .btn-outline, button.btn {
+  border-radius: 70px !important;
+  font-weight: 500 !important;
+  box-shadow: none !important;
+}
+
+/* ---------- Motion ---------- */
+.btn, a, .mxd-card, .mxd-works__item {
+  transition-timing-function: var(--ss-ease) !important;
+}
+.btn:hover, .mxd-card:hover, .mxd-works__item:hover { transform: scale(1.015); }
+
+/* ---------- No gradients/textures, accent radial blobs toned down ---------- */
+#purple-radial-gr, #purple-radial-grad, #purple-radial-gradient,
+[id*="radial"] { opacity: 0.06 !important; }
+
+/* ---------- Replace template's dummyimage headline accents ---------- */
+.headline-img-01::before, .headline-img-02::before, .headline-img-03::before,
+.headline-img-04::before, .headline-img-05::before, .headline-img-06::before {
+  background-image: url(../img/ss/450x450.jpg) !important;
+}
