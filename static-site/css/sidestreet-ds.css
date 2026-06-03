@@ -96,3 +96,54 @@ h1, h2, h3, h4, h5, h6,
 .headline-img-04::before, .headline-img-05::before, .headline-img-06::before {
   background-image: url(../img/ss/450x450.jpg) !important;
 }
+
+/* ---------- HubSpot embedded form (contact) ---------- */
+.ss-hubspot-form { width: 100%; }
+.ss-hubspot-form .hs-form-frame,
+.ss-hubspot-form form {
+  font-family: 'Outfit', sans-serif !important;
+}
+/* Inputs: squared, hairline border, Outfit, comfortable size */
+.ss-hubspot-form input[type="text"],
+.ss-hubspot-form input[type="email"],
+.ss-hubspot-form input[type="tel"],
+.ss-hubspot-form input[type="number"],
+.ss-hubspot-form select,
+.ss-hubspot-form textarea {
+  font-family: 'Outfit', sans-serif !important;
+  font-weight: 300 !important;
+  font-size: 16px !important;
+  border: 1px solid var(--ss-hairline) !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  padding: 14px 16px !important;
+  width: 100% !important;
+  box-shadow: none !important;
+  transition: border-color var(--ss-dur-1) var(--ss-ease) !important;
+}
+.ss-hubspot-form input:focus,
+.ss-hubspot-form textarea:focus,
+.ss-hubspot-form select:focus {
+  border-color: var(--ss-accent) !important;
+  outline: none !important;
+}
+.ss-hubspot-form label { font-weight: 500 !important; font-size: 14px !important; }
+/* Submit button: full pill, slate-blue */
+.ss-hubspot-form input[type="submit"],
+.ss-hubspot-form .hs-button {
+  font-family: 'Outfit', sans-serif !important;
+  font-weight: 500 !important;
+  border-radius: 70px !important;
+  background: var(--ss-accent) !important;
+  border: none !important;
+  color: #fff !important;
+  padding: 14px 32px !important;
+  cursor: pointer;
+  transition: transform var(--ss-dur-1) var(--ss-ease), background var(--ss-dur-1) var(--ss-ease) !important;
+}
+.ss-hubspot-form input[type="submit"]:hover,
+.ss-hubspot-form .hs-button:hover {
+  transform: scale(1.015);
+  background: #18506f !important;
+}
+.ss-hubspot-form .hs-error-msg, .ss-hubspot-form .hs-error-msgs { color: #b00020 !important; font-size: 13px; }
